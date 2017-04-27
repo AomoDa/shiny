@@ -1,26 +1,62 @@
+library(shiny)
+library(shinythemes) 
+shinyUI(navbarPage( theme = shinytheme("flatly"),
+                    
+                    "Recommend",
+                    
+                    tabPanel("User-Item",  
+                             sidebarLayout( 
+                               sidebarPanel( 
+                               
+       textInput("tt", label = h3("Items"), 
+                value = ""),  
+                                 submitButton(h3("Query"))
+                               ),                                   
+                               
+                               mainPanel( 
+                                 tabsetPanel( 
+                                   tabPanel("Recommend", tableOutput("desc")),
+                                   tabPanel("Rawdata", tableOutput("tb"))
+                               )
+                             )               
+                             
+                             
+                    )),
+       
+       tabPanel("xxx",  
+                sidebarLayout( 
+                  sidebarPanel( 
+                    sidebarPanel("sidebar panel",
+                  sliderInput("a", label = '',
+                        min = 0, max = 100, value = 50,width='1000px'),
+                  selectInput(inputId = "n_breaks",
+                              label = "Number of bins in histogram (approximate):",
+                              choices = c(10, 20, 35, 50),
+                              selected = 20),
+                  submitButton("Query")              
+                                  ),
+                    mainPanel("main panel")
+                  ),                                   
+                  
+                  mainPanel( 
+                    
+                    plotOutput("xxx")
 
-shinyUI(bootstrapPage(
+                  )               
+                ) ,
+                sidebarLayout( 
+                  sidebarPanel( 
+                    sidebarPanel( "sidebar panel"),
+                    mainPanel("main panel")
+                  ),                                   
+                  
+                  mainPanel( 
+                    
 
-  selectInput(inputId = "n_breaks",
-              label = "Number of bins in histogram (approximate):",
-              choices = c(10, 20, 35, 50),
-              selected = 20),
-
-  checkboxInput(inputId = "individual_obs",
-                label = strong("Show individual observations"),
-                value = FALSE),
-
-  checkboxInput(inputId = "density",
-                label = strong("Show density estimate"),
-                value = FALSE),
-
-  plotOutput(outputId = "main_plot", height = "300px"),
-
-  # Display this only if the density is shown
-  conditionalPanel(condition = "input.density == true",
-    sliderInput(inputId = "bw_adjust",
-                label = "Bandwidth adjustment:",
-                min = 0.2, max = 2, value = 1, step = 0.2)
-  )
-
+                    
+                  )               
+                ))            
+                    
+                    
+                    
 ))
