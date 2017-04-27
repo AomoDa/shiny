@@ -1,0 +1,1410 @@
+brewery_id,brewery_name,review_time,review_overall,review_aroma,review_appearance,review_profilename,beer_style,review_palate,review_taste,beer_name,beer_abv,beer_beerid
+10325,Vecchio Birraio,1234817823,1.5,2,2.5,stcules,Hefeweizen,1.5,1.5,Sausa Weizen,5,47986
+10325,Vecchio Birraio,1235915097,3,2.5,3,stcules,English Strong Ale,3,3,Red Moon,6.2,48213
+10325,Vecchio Birraio,1235916604,3,2.5,3,stcules,Foreign / Export Stout,3,3,Black Horse Black Beer,6.5,48215
+10325,Vecchio Birraio,1234725145,3,3,3.5,stcules,German Pilsener,2.5,3,Sausa Pils,5,47969
+1075,Caldera Brewing Company,1293735206,4,4.5,4,johnmichaelsen,American Double / Imperial IPA,4,4.5,Cauldron DIPA,7.7,64883
+1075,Caldera Brewing Company,1325524659,3,3.5,3.5,oline73,Herbed / Spiced Beer,3,3.5,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1318991115,3.5,3.5,3.5,Reidrover,Herbed / Spiced Beer,4,4,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1306276018,3,2.5,3.5,alpinebryant,Herbed / Spiced Beer,2,3.5,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1290454503,4,3,3.5,LordAdmNelson,Herbed / Spiced Beer,3.5,4,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1285632924,4.5,3.5,5,augustgarage,Herbed / Spiced Beer,4,4,Caldera Ginger Beer,4.7,52159
+163,Amstel Brouwerij B. V.,1010963392,3,2,3,fodeeoz,Light Lager,2.5,2.5,Amstel Light,3.5,436
+1075,Caldera Brewing Company,1283154365,5,5,4,MadeInOregon,Herbed / Spiced Beer,4,4,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1277557990,4,4,4,rawthar,Herbed / Spiced Beer,3.5,4,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1275779250,4,4.5,3,Halcyondays,Herbed / Spiced Beer,2.5,3,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1273109020,3.5,4,3,RangerClegg,Herbed / Spiced Beer,3,4,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1316025612,3,3,2.5,Beerandraiderfan,Oatmeal Stout,3,3,Caldera Oatmeal Stout,7.2,10789
+1075,Caldera Brewing Company,1103502339,2,1.5,2.5,RedDiamond,Oatmeal Stout,2.5,2,Caldera Oatmeal Stout,7.2,10789
+1075,Caldera Brewing Company,1062311123,4,3,4,beerguy101,American Pale Lager,4,4,Caldera OBF 15,5.6,12386
+163,Amstel Brouwerij B. V.,1010861086,2.5,3,3,jdhilt,Light Lager,2,2,Amstel Light,3.5,436
+1075,Caldera Brewing Company,1325478004,4.5,4.5,3,UCLABrewN84,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1325360812,4,4,4,zaphodchak,Rauchbier,3,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1322506304,4,4.5,4,Tilley4,Rauchbier,3.5,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1320494397,4.5,5,4.5,mikedrinksbeer2,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1320140421,4,4.5,4,dbmernin83,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1319847514,4.5,4.5,4,titosupertramp,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1318802642,5,5,3.5,optimator13,Rauchbier,3.5,5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1318290101,4.5,4.5,4,Blakaeris,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1318289482,4.5,5,4,bashiba,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1316405909,4.5,4.5,3.5,Klym,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1315696563,4.5,4.5,4,flexabull,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+163,Amstel Brouwerij B. V.,1002109880,3,2,2,xXTequila,Light Lager,2,3,Amstel Light,3.5,436
+1075,Caldera Brewing Company,1315014054,5,4.5,4,Bung,Rauchbier,4,5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1314752229,4,4,4.5,oberon,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1312403394,4.5,4.5,4,t420o,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1312162337,4,4,4,DarthKostrizer,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1312070406,4,4,3,MrVonzipper,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1311558510,3,4.5,3,Beerandraiderfan,Rauchbier,2,3,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1309310508,4,4.5,4.5,TheWhiskerReview,Rauchbier,4,3.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1307850875,3.5,3.5,4.5,Elimination,Rauchbier,4,3.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1283136243,4.5,5,3.5,Jason,Rauchbier,4.5,4.5,Rauch Ür Bock,7.4,58046
+163,Amstel Brouwerij B. V.,988202869,3,3,3,Brent,Light Lager,2,2,Amstel Light,3.5,436
+1075,Caldera Brewing Company,1306128988,4.5,4,4,DoubleJ,Rauchbier,4.5,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1305926255,5,4.5,3.5,Deuane,Rauchbier,4,5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1305856857,4,4,4,Mattybeerguy,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1305469906,4,4,3.5,micromaniac129,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1305329412,3.5,5,3.5,beagle75,Rauchbier,3.5,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1302401846,4,4,3.5,northyorksammy,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1301454480,4.5,4,4,vette2006c5r,Rauchbier,4.5,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1301023832,4,3.5,4,EvanEngelstad,Rauchbier,3,3.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1300936020,4.5,4,4,djeucalyptus,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1300237348,4,4,3.5,ccrida,Rauchbier,4.5,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1297290394,3.5,3.5,4,cooch69,Rauchbier,3.5,3.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1291959798,3.5,4,4,DogFood11,Rauchbier,3.5,3.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1291254447,4,4.5,4,brewandbbq,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1286839186,3.5,3.5,4,Fatehunter,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1286679032,4.5,4.5,3,hopsbreath,Rauchbier,4.5,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1285545349,4.5,4.5,3.5,augustgarage,Rauchbier,4,5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1284135689,4.5,4.5,4,Slatetank,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1281495119,4,4,4,Proteus93,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1281303716,4,4.5,4,SShelly,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1277846123,4,4.5,4,zoso1967,Rauchbier,3.5,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1275779614,4,4.5,3.5,Halcyondays,Rauchbier,3.5,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1273021280,4,4.5,3.5,msubulldog25,Rauchbier,4.5,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1251327677,4,3.5,3.5,NJpadreFan,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1250928902,2.5,3,3.5,vacax,American Pale Ale (APA),3.5,2.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1249866208,4,3.5,4,d0ggnate,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1310259440,4.5,4.5,4.5,Cyberkedi,American Porter,4.5,5,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1249847121,4.5,3.5,4,babyhobbes,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1249556277,4.5,3.5,4,mdagnew,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1249347819,4,3.5,4.5,mikesgroove,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1248223105,4,3.5,4,hdofu,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1248142715,3.5,4,3.5,argock,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1247611689,3.5,4,4,Seanibus,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1246913078,5,4,4.5,GratefulBeerGuy,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1208019450,3.5,4,3.5,MuenchenerKindl,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1246835039,4.5,4,4,PDXHops,American Pale Ale (APA),4.5,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1245632401,4,4,4,IMincedTheKing,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1245007399,4,3.5,4,Goliath,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1243386855,4,3.5,3.5,zeff80,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1243111472,4,3.5,4,akorsak,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1242695740,4,3,3.5,wchesak,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1242591041,3.5,3.5,3.5,beer2day,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1240194272,4,3.5,2.5,bfields4,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1239404031,4,4,4,dyan,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1238806680,3.5,3.5,4,Monkeyknife,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1238102425,4.5,4,4,HopDerek,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1237995185,4.5,4,4.5,djeucalyptus,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1235940573,5,3.5,4,mtrentm,American Pale Ale (APA),4,5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1235869779,5,4,4.5,maximum12,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1235799776,3.5,4,3.5,blackie,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1234402493,4,3.5,3.5,JayQue,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1234301164,4.5,3.5,3.5,bbothen,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1234289072,4,4,4,Kegatron,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1233532055,4,4,4,CrellMoset,American Pale Ale (APA),4.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1233527792,3.5,3,3.5,beerman21,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1276458339,4,4,4,joepais,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1233438861,4,4,4,BeerSox,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1232762866,3.5,4,3.5,Proteus93,American Pale Ale (APA),3,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1231859071,3.5,3.5,3.5,hopdog,American Pale Ale (APA),3,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1231644832,4,3.5,3.5,gford217,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1228286719,4,3,4,thehand,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1227368772,4.5,4,4,GbVDave,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1222211380,3,3,3.5,dfitch81,American Pale Ale (APA),3,2.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1220215328,3.5,3.5,4,RJLarse,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1275798498,4,4,4,Beejay,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1219023488,4.5,4.5,4.5,SurlyDuff,American Pale Ale (APA),4.5,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1218509484,4,4,4,Wetpaperbag,American Pale Ale (APA),3,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1217377327,4.5,4,4,largadeer,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1216870136,3.5,4.5,4,cswhitehorse,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1216764325,4,4,3.5,elniko,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1215737527,4.5,4,4,deltatauhobbit,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1215478984,4,4,4.5,woemad,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1215388875,4.5,4,3.5,czechsaaz,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1210468644,4,4,4.5,Wasatch,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1208444405,4.5,4,3.5,oberon,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1310518783,4,4,4.5,Urbancaver,Belgian Strong Dark Ale,4,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1207375871,3.5,4,5,ccrida,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1206403506,4.5,3.5,3,brentk56,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1206326545,5,4,3.5,BeerZack,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1205302160,4,3.5,3.5,russpowell,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1204256003,4,3.5,4,Spikester,American Pale Ale (APA),3,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1199158664,3,2.5,3,Dubbercody,American Pale Ale (APA),3,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1198817492,3,4,3.5,ChainGangGuy,American Pale Ale (APA),3.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1190043490,4.5,4,4.5,Vancer,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1188970905,4.5,3.5,3.5,ghostwalker,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1186867975,4,4,4.5,udubdawg,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1275439462,4,3.5,2.5,Bfarr,American Pale Ale (APA),3,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1182308568,4,4,4,cburian,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1181450867,4.5,4,4,flexabull,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1177638920,4,3,3.5,mnwags,American Pale Ale (APA),2.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1170714306,4.5,4,3.5,NeroFiddled,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1160699043,5,4,3.5,IntriqKen,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1160265839,3.5,4,3,JoshD,American Pale Ale (APA),3.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1157665307,4,3.5,4,lackenhauser,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1154568582,4.5,4,4,kgotcher,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1154067787,4.5,4,3,MLegendre,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1148947298,3,4,4,freed,American Pale Ale (APA),3,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1147643598,4,4,3.5,ddarden,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1147583357,4,4,3.5,ElGordo,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1132082651,4.5,4.5,4.5,BuckeyeNation,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1124731747,4,3.5,4,Reidrover,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1326212716,4,4,4,BeerLover99,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1322517349,3.5,4,3.5,syrupjoe,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1321322911,4,4.5,4,BrewerB,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1274928281,4,4,3.5,robwestcott,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1320470970,3.5,3.5,4.5,vande,American Pale Ale (APA),4,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1320422191,4,3.5,4,ColForbinBC,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1318247779,3,2.5,3.5,harrymel,American Pale Ale (APA),3.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1316727048,4,3.5,4.5,woosterbill,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1315501843,4,4,4.5,ReelBigwigFish,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1315424611,4,4,4,cbarrett4,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1313814599,4,3.5,4,chodinheaven,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1313539369,3.5,3.5,3.5,Beerandraiderfan,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1313538701,4,3.5,4.5,MrVonzipper,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1274919895,4,4,4,tempest,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1313344297,3.5,3.5,3.5,witster18,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1313205214,4,3.5,3.5,jeff1973,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1312859109,4,4,4,Duff27,American Pale Ale (APA),3.5,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1311635079,3,3,4,Phelps,American Pale Ale (APA),4,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1310596490,3.5,3.5,4,mgbickel,American Pale Ale (APA),3,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1309143059,3,3.5,4,Jimmys,American Pale Ale (APA),3.5,2.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1307926374,4,4,4,Scotchboy,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1307228809,3,3.5,4,TheGordianKnot,American Pale Ale (APA),3,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1306801312,3.5,3.5,3.5,loren01,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1305443533,3.5,3.5,3.5,rootbeerman,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1304919405,4,4,4.5,corby112,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1304775252,3.5,3.5,4,inlimbo77,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1302318720,4.5,5,4.5,youradhere,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1299616654,2.5,3.5,4,Thorpe429,American Pale Ale (APA),2,2.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1299469158,4,3.5,4,FosterJM,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1298677831,4.5,2,2,bobhits,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1298604088,3.5,3.5,3.5,u2carew,American Pale Ale (APA),3,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1296947205,3,3.5,4,beerman207,American Pale Ale (APA),3,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1286931306,3.5,4,4,hawks10,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1296194634,3.5,3.5,4,BEERchitect,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1292368869,4,3.5,4,msubulldog25,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1291082909,4,3.5,3.5,climax,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1289995470,4,4,5,AEK,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1288306896,3,3,3,Tilley4,American Pale Ale (APA),2.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1288229762,4.5,4.5,4,wcudwight,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1288124891,4,3,4,kzoobrew,American Pale Ale (APA),3.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1286887230,4.5,4,4.5,dudemuskie,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1286770715,4,4,4,elgiacomo,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1285123300,4,3,4,ArrogantB,American Pale Ale (APA),4,2.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1284070441,4,4,4,stephens101,American Pale Ale (APA),3.5,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1282616446,3.5,3.5,3.5,StaveHooks,American Pale Ale (APA),5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1281751758,3.5,3.5,4,GarrettMD,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1281407690,4,4,4,barleywinefiend,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1281230213,4.5,4,4,merlin48,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1280773118,3.5,3,4,jampics2,American Pale Ale (APA),3.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1258511938,5,5,3,cjever19,American Pale Ale (APA),5,5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1280377901,5,3.5,4,ThreeWiseMen,American Pale Ale (APA),5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1280121552,4,3,4,philbertk,American Pale Ale (APA),3,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1279898459,4.5,4,4,Brent,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1279603940,3,3.5,3.5,Bubba83,American Pale Ale (APA),4,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1278462434,4,4,4,BeerAdvocate,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1278094363,4,3.5,4,mikereaser,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1277592425,4,3,4,jkrich,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1277176387,4.5,3.5,3.5,SpdKilz,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1277173621,4,3.5,3.5,barleywinefiend,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1274582920,4.5,4,4,indiapaleale,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1274535816,4.5,4,4,Cresant,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1274399540,3,4,3.5,Bitterbill,American Pale Ale (APA),4,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1273493811,4.5,3.5,3.5,hosehead83,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1271993282,4,4,4,kshankar,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1269722488,4.5,4,4.5,bump8628,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1268076225,4,3.5,4,WesWes,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1267839055,3,3,2.5,beertunes,American Pale Ale (APA),2.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1266473259,4,4,4,ClockworkOrange,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1266280281,4,3.5,5,organicbrewer,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1265831510,5,4,4,onix1agr,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1265696374,4,3.5,4,dedrinker,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1264269458,4.5,4.5,4,woodychandler,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1264041225,3.5,3.5,3,therica,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1262623366,4.5,3.5,3.5,rfgetz,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1262485655,4,3.5,4,JohnGalt1,American Pale Ale (APA),3.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1261976212,5,4,4,womencantsail,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1260202692,4.5,4.5,4,ckeegan04,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1258953381,4.5,3.5,4,WeisGuy,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1256089931,4.5,3,4,Rmassimiano,American Pale Ale (APA),4,5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1255564836,4.5,4,4,droomyster,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1254457053,4,3.5,3.5,flagmantho,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1254185699,4,3,4,snaotheus,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1254099708,4.5,4,4,RoyalT,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1253889382,3.5,4,4,Slatetank,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1252549074,4,4,4,philbe311,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1252535262,4,3.5,3.5,Deuane,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1251925734,3.5,3,4,Halcyondays,American Pale Ale (APA),3.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1304977550,4,4,4,CaptainIPA,American Porter,4.5,4,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1299734664,4.5,3.5,3,anchordrinker,American Porter,5,4.5,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1270238942,4.5,4,4,spointon,American Porter,4,4.5,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1265775166,3.5,3.5,4,slaintemhor,American Porter,3.5,3.5,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1254977926,5,4,4.5,Reidrover,American Porter,4,4,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1153680639,4.5,3.5,4.5,Gavage,American Porter,4.5,4,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1113805689,3.5,3.5,3.5,Thrasher,American Porter,3.5,3,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1100743845,2.5,2.5,3,RedDiamond,American Porter,2.5,3,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1326071409,3.5,3.5,4,BilbosNuts,Belgian Strong Dark Ale,2,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1321407186,3,4,2,n2185,Belgian Strong Dark Ale,3,2.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1311736668,4,4,4,Knapp85,Belgian Strong Dark Ale,3.5,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1321070530,3.5,3.5,3.5,russpowell,Belgian Strong Dark Ale,3,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1320555535,4,3.5,4,mjyoung,Belgian Strong Dark Ale,3.5,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1319921102,3.5,3.5,4,phichifiji00,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1319858005,3.5,3.5,4,mgbickel,Belgian Strong Dark Ale,4,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1317515953,4,3,4,vande,Belgian Strong Dark Ale,3.5,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1317093500,3,3.5,4,oline73,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1315280892,4.5,4,4,pitasoup,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1314576950,4,3.5,3.5,match1112,Belgian Strong Dark Ale,4,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1313275008,3.5,3,3.5,Siggy125,Belgian Strong Dark Ale,3.5,3,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1311901246,3.5,4,4,beer2day,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1309577754,4,3.5,4,sgsmfdoom,Belgian Strong Dark Ale,4,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1309227572,4,3,4,Nashvillain,Belgian Strong Dark Ale,4,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1304116900,4,4,4,CHILLINDYLAN,Belgian Strong Dark Ale,4,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1300995057,4,4,4,emmasdad,Belgian Strong Dark Ale,4,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1300226447,3.5,4,3.5,Bendurgin,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1296739609,3.5,3,4,BuckeyeNation,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1294716213,3.5,3.5,3.5,BeerAdvocate,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1292542146,4,4,4,GarthDanielson,Belgian Strong Dark Ale,4,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1272945129,4,4,4,Akfan,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1290310276,4,4,3.5,chumba526,Belgian Strong Dark Ale,3.5,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1289007164,3,2.5,4,Xul,Belgian Strong Dark Ale,3.5,3,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1287556131,3.5,2.5,3.5,Docer,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1283849227,2,2.5,4,rand,Belgian Strong Dark Ale,2.5,2,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1283632391,2.5,2,2.5,Arbitrator,Belgian Strong Dark Ale,1,2.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1283402291,3,3.5,3.5,ccrida,Belgian Strong Dark Ale,3,3,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1281917733,4,4,4,brewandbbq,Belgian Strong Dark Ale,4,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1324238653,4,4,4,coldriver,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1281017724,3,4,3.5,GradyS1,Belgian Strong Dark Ale,2.5,3,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1278714049,3,3.5,4,meatyard,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1277183331,4,4,4,Mora2000,Belgian Strong Dark Ale,4,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1277179584,5,4,4,GRG1313,Belgian Strong Dark Ale,3.5,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1276135287,4,3.5,4.5,zoso1967,Belgian Strong Dark Ale,4,3,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1275892159,3.5,3.5,4.5,DeanMoriarty,Belgian Strong Dark Ale,3.5,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1275778651,3.5,3,4,Halcyondays,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1103668195,3,3,3,RedDiamond,American Stout,4,3,Cauldron Espresso Stout,,21241
+1075,Caldera Brewing Company,1314593255,4.5,4,4,Derek,Russian Imperial Stout,4,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1325371643,4,4,3.5,suncrust,Russian Imperial Stout,4,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1324873502,4,4,4,dc55110,Russian Imperial Stout,3.5,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1321759929,4,3.5,3,snaotheus,Russian Imperial Stout,4,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1320011799,4,4,4,oberon,Russian Imperial Stout,4.5,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1319912250,4,4,2.5,russpowell,Russian Imperial Stout,4.5,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1319087212,4,4,4.5,julian,Russian Imperial Stout,4,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1318908990,4.5,4,4,Halcyondays,Russian Imperial Stout,5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1318153805,4.5,4,4.5,UCLABrewN84,Russian Imperial Stout,4,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1316051590,3.5,3,3.5,Beerandraiderfan,Russian Imperial Stout,4,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1315044032,4,4,4.5,tdm168,Russian Imperial Stout,4,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1313553891,4.5,4,4,jeff1973,Russian Imperial Stout,4.5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1312575615,5,4.5,4.5,Tilley4,Russian Imperial Stout,4.5,5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1310693953,5,5,5,Cyberkedi,Russian Imperial Stout,5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1305846083,4,4,4,onix1agr,Russian Imperial Stout,4.5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1305776840,4.5,4,4.5,oglmcdgl,Russian Imperial Stout,4.5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1304910259,4,3,3.5,youradhere,Russian Imperial Stout,3,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1301436909,4,4,4,Knapp85,Russian Imperial Stout,3.5,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1301108461,4.5,4.5,4.5,kitty66,Russian Imperial Stout,4,5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1106529693,4.5,4.5,4.5,Valevapor,American Amber / Red Ale,4,4.5,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1301032260,4.5,4,4,lowendfrequency,Russian Imperial Stout,4.5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1299090515,3,4,3.5,harrymel,Russian Imperial Stout,4,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1297663058,3.5,4,4,Vdubb86,Russian Imperial Stout,4,3.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1297637051,3.5,3.5,4,TMoney2591,Russian Imperial Stout,4,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1296103099,4,3.5,4.5,vkv822,Russian Imperial Stout,4,3.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1295916750,4,4,4,barleywinefiend,Russian Imperial Stout,4,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1267669241,4.5,4,4,ccrida,Russian Imperial Stout,4.5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1233976509,4.5,4,4,msubulldog25,Russian Imperial Stout,4.5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1104119630,3,4,3.5,GreenWBush,American Amber / Red Ale,3,4,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1232517923,5,4.5,4.5,bitterthebetter,Russian Imperial Stout,5,5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1202674258,4,4,4.5,RedDiamond,Russian Imperial Stout,4,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1316030136,3.5,3.5,3.5,Beerandraiderfan,American Amber / Red Ale,3.5,3.5,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1190326149,4,4,4,mcallister,American Amber / Red Ale,4,4,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1174767562,4.5,4.5,4,ccrida,American Amber / Red Ale,4,4.5,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1171415576,4,4,4,flexabull,American Amber / Red Ale,4,4,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1119304996,4,4,3,Crotor,American Amber / Red Ale,3.5,4,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1111803322,4,4,4,unklesyd,American Amber / Red Ale,4.5,4.5,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1103510937,4.5,4.5,3.5,RedDiamond,American Amber / Red Ale,4,4,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1060927934,4,4.5,4.5,freed,American Amber / Red Ale,4,4,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1296524914,4,4,4,inthebeeraisle,American Strong Ale,4,4,Southside Strong,7,10794
+1075,Caldera Brewing Company,1259026211,4.5,4,4,ElGordo,Märzen / Oktoberfest,4,4,Caldera Märzen,6.3,54330
+1075,Caldera Brewing Company,1313637622,3,3,4,isualum12,American Adjunct Lager,2,3,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1294716177,4,4,4,BeerAdvocate,American Adjunct Lager,4,4,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1284525849,4.5,3,3.5,JohnGalt1,American Adjunct Lager,3.5,3.5,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1281229651,4,3.5,3.5,merlin48,American Adjunct Lager,3.5,3.5,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1279762002,3,3.5,3.5,philbe311,American Adjunct Lager,3,3,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1279679219,3.5,3,3,SpdKilz,American Adjunct Lager,2.5,3,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1278993362,3,3,3,DeanMoriarty,American Adjunct Lager,3,3,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1277081906,4.5,3.5,3.5,zoso1967,American Adjunct Lager,3,3.5,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1275777906,3.5,2.5,3,Halcyondays,American Adjunct Lager,4,3,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1275771652,5,4,4,Wetpaperbag,American Adjunct Lager,4,4.5,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1274579229,2,2.5,2,IronLover,American Adjunct Lager,2.5,2.5,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1270908226,4,3,2,Reidrover,American Adjunct Lager,2.5,3,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1270706342,4.5,3.5,4,Spikester,American Adjunct Lager,3,4,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1267230079,1,1.5,1,kevinmkirk,American Adjunct Lager,1,1,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1324042981,3,3.5,3,notchucknorris,American Blonde Ale,2,3,Caldera Rose Petal (Kettle Series),6.7,61427
+1075,Caldera Brewing Company,1296875377,4,4,4,Mora2000,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1322529598,4,4,4,brianairb85,American Blonde Ale,3.5,4.5,Caldera Rose Petal (Kettle Series),6.7,61427
+1075,Caldera Brewing Company,1313491119,1.5,2,3,jmarsh123,American Blonde Ale,2,1.5,Caldera Rose Petal (Kettle Series),6.7,61427
+1075,Caldera Brewing Company,1312168951,3,3.5,3.5,BDTyre,American Blonde Ale,3,3.5,Caldera Rose Petal (Kettle Series),6.7,61427
+1075,Caldera Brewing Company,1310388796,1.5,1.5,3,TheGordianKnot,American Blonde Ale,2,1.5,Caldera Rose Petal (Kettle Series),6.7,61427
+1075,Caldera Brewing Company,1284083587,4,3,4.5,hippityhops85,American Blonde Ale,3,3.5,Caldera Rose Petal (Kettle Series),6.7,61427
+1075,Caldera Brewing Company,1282984478,3.5,3.5,3.5,JohnGalt1,American Blonde Ale,3.5,3.5,Caldera Rose Petal (Kettle Series),6.7,61427
+1075,Caldera Brewing Company,1297129212,4,4,4,Rutager,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1297105083,4.5,4,4,CHILLINDYLAN,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1296947627,4.5,4.5,4,beerman207,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1296620697,3.5,4,4.5,grover37,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1296233050,4.5,4.5,4,alabamatie,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1296008402,4.5,4,4,bagpiper2005,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1296005914,4,3.5,4,LukeD23,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1295671770,4,4,4,JayQue,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1295585824,4,4.5,4.5,PhageLab,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1294974656,5,4,5,lnashsig,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1294791118,4,4.5,5,mindlucent2007,American IPA,4,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1294539199,4,3.5,4.5,AlCaponeJunior,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1294305907,4,3,4,corby112,American IPA,3,3,Caldera IPA,6.1,10784
+163,Amstel Brouwerij B. V.,1169353199,3,3,3,kww,Euro Pale Lager,3,3,Amstel Bright,5,3386
+1075,Caldera Brewing Company,1294116253,4,4,4.5,BEERchitect,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1293153465,4,4,4.5,Jayli,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1293123837,3.5,3.5,4,LilBeerDoctor,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1293061516,4,4,4,clayrock81,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1292778811,4,4,4,lstokes,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1292282933,4.5,4,3.5,kylejohnson03,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1291909316,4,4,4,csiewert,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1291863248,4,4,4,beerphan,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1291772007,4.5,4,4,climax,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1280725041,4,3.5,4.5,JTahoe,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1290892378,4.5,4.5,4,JoEBoBpr,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1290186023,3,2.5,4,OWSLEY069,American IPA,3,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1289994167,4,4,5,AEK,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1289772727,4.5,4,4.5,TheManiacalOne,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1289066078,4.5,4,4,awalk1227,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1288747230,4,4,4.5,BuckyFresh,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1288594654,4,4,4,SamuelJackson45,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1288568600,4,4,4.5,djbreezy,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1288326570,5,4,4.5,wcudwight,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1288222917,4,4,4,JoeyBeerBelly,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1237945444,4.5,3.5,4.5,HopDerek,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1287709770,5,4,4,DeanMoriarty,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1287274920,4,3.5,4,xnicknj,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1286137884,3.5,3.5,3.5,northyorksammy,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1285793647,2.5,3.5,3.5,Bfarr,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1285631508,3.5,2.5,3.5,crossovert,American IPA,3.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1285543810,4.5,4,4,emmasdad,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1285394918,3.5,3.5,4,DoubleJ,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1285377193,4.5,4,4.5,Beerenauslese,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1284942580,4,4,4,chumba526,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1284915166,4,4.5,4,merlin48,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1284791160,3.5,3,3.5,htomsirveaux,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1279169746,4.5,3.5,5,BrewsB4Shrews,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1284773313,4,4,4.5,cvaypai,American IPA,3,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1284684401,4,4.5,4,elgiacomo,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1284602207,4.5,4.5,4.5,cbak999,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1284314205,4.5,4,4,pigdog,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1284260105,4.5,3.5,3.5,irishgurl4,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1284237564,4,4,4,barleywinefiend,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1283221299,4,4,4,charmcityboh,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1282776701,4,4,4,seedsofchaos,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1278974127,3.5,4.5,4,Beerandraiderfan,American IPA,4,4,Caldera IPA,6.1,10784
+1454,Broad Ripple Brew Pub,1262208997,4,3.5,4,JamesS,English Brown Ale,3.5,3.5,Nut Brown,4.7,55097
+1075,Caldera Brewing Company,1282437399,4,4,4,Ryan011235,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1282425919,5,4,4,samie85,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1282359216,4.5,4,3.5,StaveHooks,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1281981701,4,4,4,Brent,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1281829729,4,4,4,thecarster1,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1281560681,4.5,4,3.5,GarrettMD,American IPA,4,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1281058518,4,3.5,4,leedorham,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1281054838,4,4.5,4,hawks10,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1280985927,4,4,5,Bubba83,American IPA,4.5,4,Caldera IPA,6.1,10784
+850,Moon River Brewing Company,1141751953,3.5,3.5,3,Jredner,American Porter,3.5,3.5,The Captain's Porter,6,2780
+1075,Caldera Brewing Company,1280541063,5,4,4.5,JohnQVegas,American IPA,4.5,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1280121771,3,3,4,philbertk,American IPA,3,2.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1279927381,4,3.5,4,sliverX,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1279656760,4.5,4,4,bump8628,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1279590609,4.5,5,4.5,bridgetowhophead,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1279588546,4.5,4,4.5,TheHungryHiker,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1279487880,4.5,4,4,nc41,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1279374127,4.5,4.5,4.5,btorsdog,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1278972867,4,3.5,4,jzeilinger,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1278684178,3.5,4,4,BlackHaddock,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1278630893,4,4,4,gatornation,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1278462382,4,4,4,BeerAdvocate,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1278378015,3,3,3,beertunes,American IPA,3,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1278312943,4,4,4,squaremile,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1278093529,4,3.5,4,mikereaser,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1278016964,4,3.5,3,thagr81us,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1277424439,4.5,4.5,4,brauseboof,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1275409131,4.5,4.5,4.5,BigMike,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1277347253,4.5,4.5,3.5,trevorjn06,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1277329335,4,4.5,4.5,therica,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1277327337,4.5,4,4.5,zoso1967,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1277179754,4,4,3.5,WYVYRN527,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1277173332,3.5,3.5,4,barleywinefiend,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1276830747,4,4,3.5,kiddynamite920,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1276327213,4.5,4.5,4.5,olmatty,American IPA,4,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1275512166,4,4.5,4.5,scottyshades,American IPA,4.5,4,Caldera IPA,6.1,10784
+850,Moon River Brewing Company,1110736110,3.5,4,4.5,cMonkey,Scotch Ale / Wee Heavy,3.5,3.5,The Highland Stagger,,20689
+1075,Caldera Brewing Company,1275388099,5,5,4.5,Freethyhops,American IPA,3.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1274584909,5,5,4.5,wolfinthemirror,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1274110682,3.5,2.5,3.5,ktrillionaire,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1274064984,4.5,4.5,4,oregonskibum,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1273843947,4.5,4.5,4,thain709,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1273809063,3.5,4,4,kkipple,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1273711585,4,4,4,gatorbreath,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1273617448,4,3.5,4,branimal9,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1272135863,4.5,4,4.5,cdizinno,American IPA,5,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1326249924,4.5,4,5,MacQ32,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1326238002,4,4.5,4.5,beerdedking,American IPA,3.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1326032536,3.5,3.5,4,Finatic,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1325980456,5,5,5,vicsju1991,American IPA,5,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1325657658,4,4,4.5,dbossman,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1325477658,3.5,3.5,4,HOPPYKC,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1325383668,4,3.5,4,TheFightfan1,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1324936267,4.5,3.5,3,drewba,American IPA,4,4,Caldera IPA,6.1,10784
+850,Moon River Brewing Company,1049739266,4,4.5,3.5,EricP,American IPA,4,4,Swamp Fox IPA,5.8,2725
+1075,Caldera Brewing Company,1324173764,5,5,4,IPAguy2009,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1272067521,4.5,4.5,4,Tilley4,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1271892680,4.5,4.5,4,AlexJ,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1271509638,4.5,4,4.5,avalon07,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1271296509,4,4,4,jpro,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1270956549,4,3,4.5,mdcrouser,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1270492948,4.5,4,4,kylehayworth,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1269892519,4,4,4,Kadonny,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1269642122,4,4,4,RomaniIteDomum,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1269174802,4,4,4,indiapaleale,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1268775804,4,4,4.5,armock,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1268743762,4.5,4.5,3.5,Cresant,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1268596419,4,4.5,4,biggred1,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1268415775,1,4,4,ShadesOfGray,American IPA,2,2,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1268007672,3.5,4,4,jlindros,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1267929272,4.5,4,4.5,Casey10,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1267313530,4.5,4,4,WesWes,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1266947297,4,3.5,3.5,PeteVenkman,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1266787279,4,4,4,callmemickey,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1266701805,4,4,5,hoppyhobby,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1266459012,4,4.5,4,Philabeerphia,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1266388888,4,3.5,4,ClockworkOrange,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1266388534,4,4,4.5,iasanlee,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1266363163,4,3.5,3.5,MURF0320,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1266284114,3,2.5,4.5,organicbrewer,American IPA,3.5,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1265786262,4.5,4,4,onix1agr,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1265676399,4,3,4,SpeedwayJim,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1259454988,4.5,3,4,raverjames,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1265225199,4,3.5,4,Lunch,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1262920359,4.5,4,4,bamadog,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1262403473,4.5,3.5,4.5,augustgarage,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1262314296,4.5,4.5,4.5,jwc215,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1261805236,4.5,4,5,dedrinker,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1261454050,5,4.5,4,Gyle41386,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1261448306,4,4,4.5,ShogoKawada,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1259219882,4,3.5,3.5,JohnGalt1,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1261356086,4,3.5,3.5,alleykatking,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1261108959,4,4,4.5,berebrando,American IPA,4.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1260945337,3.5,3.5,4,Overlord,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1260766595,4.5,4,4.5,RedBrewer83,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1260411055,4.5,5,4.5,womencantsail,American IPA,3.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1260255554,4,4.5,4.5,slayer3604,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1260051904,4.5,5,4,jctribe25,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1259630725,3.5,3.5,4,hooliganlife,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1227450368,4.5,4.5,4,DrDogbeer,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1259109381,4,3.5,4,kels,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1259047445,3.5,3.5,4,callmescraps,American IPA,3.5,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1258906716,5,5,4,woodychandler,American IPA,4,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1258846778,4,4,4,Primitivechef,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1258127478,4.5,3.5,4,BevMoAndrew,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1256962406,3.5,4,4.5,mugglesandhops,American IPA,4,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1256871148,4,4,4,Finn,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1256869593,4,4,4.5,drabmuh,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1256585280,3.5,3.5,4,Schmaltzy,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1255983403,4,4,4,nickd717,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1252299756,3.5,4,3.5,WeisGuy,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1255406572,4.5,4.5,4,glid02,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1254103096,4.5,4,4,RoyalT,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1254073027,4,4,4.5,mikey711,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1253757832,4.5,4.5,4,snaotheus,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1253650330,4.5,3.5,4,Deuane,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1253477448,5,4.5,4.5,Stimwizzle,American IPA,5,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1253213801,4.5,4,4.5,Slatetank,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1252729215,4,4,3.5,wmthorne,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1252632725,4.5,4,3.5,mbunje,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1252027454,3.5,4,3.5,Genghis22,American IPA,4.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1251925968,4,4,4,Halcyondays,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1251853060,4.5,4,4,hckyfn9999,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1251411241,3.5,3.5,3,HalfFull,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1251276005,4.5,4,4,mdagnew,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1250934691,2.5,3,4,vacax,American IPA,3,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1250789813,4.5,3.5,4,Imstillthegman,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1250702282,4,3.5,4,qchic,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1250440035,3,3.5,3.5,mjl21,American IPA,3.5,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1243102194,3,5,4,madtappers,American IPA,4,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1250129621,3.5,4.5,4,cerveza5150,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1250097211,5,4,4,beerswamie,American IPA,4.5,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1249940104,4.5,4,4,Metalmonk,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1249869859,4.5,4.5,4.5,webbcreative,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1249707176,4,4.5,4,Tdizzle,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1249616172,4.5,4,4,d0ggnate,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1248568237,2,4,4.5,velosuds,American IPA,3,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1227408943,4,4,4,ArrogantB,American IPA,4.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1248487882,3.5,4.5,3.5,argock,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1248390678,4,3,3.5,Docer,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1247879445,4.5,4.5,4,jackorain,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1247702251,3.5,3.5,4,BeerBelcher,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1247548071,4.5,3.5,4,czechsaaz,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1247427830,4,3.5,4,meatyard,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1246837454,4.5,4,4,PDXHops,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1246666482,4.5,4,4,tronester,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1246392204,4,4,4,Seanibus,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1238797238,4.5,4.5,4,Monkeyknife,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1246326741,4,4.5,4,philbe311,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1246257499,3.5,4.5,4,macktbone,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1246219461,4,4,4,ckeegan04,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1246156677,4.5,4.5,4,mikesgroove,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1245731578,4,4,4,washburnkid,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1245728825,2,3,4,Arbitrator,American IPA,3,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1245721415,4,3.5,4,tempest,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1245540392,5,5,4.5,jfitzy78,American IPA,4.5,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1245118209,4,3.5,4,skrib09,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1245014833,4,4.5,4.5,mcsquint,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1315528776,4.5,4.5,4.5,jtd1969,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1245014092,4,4,4,Goliath,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1244858084,3.5,4,4.5,erikm25,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1323995849,4,4,3.5,Rhettroactive,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1323921048,3.5,4.5,4,HosP,American IPA,2.5,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1323188620,3.5,3.5,3.5,TheGordianKnot,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1322691877,4,3.5,4,comfortablynumb1,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1321574120,4,4,4,tdm168,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1320902822,3,4,3.5,Teleweizen2,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1305061090,4,3.5,4,zoolzoo,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1320248628,4,3.5,4,ColForbinBC,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1319855053,4,3.5,4,bosox941827,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1319673471,4,3.5,4,doopydoogle,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1319241322,4,4,4.5,wedge,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1244808633,3,4,4.5,Risser09,American IPA,3,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1244683205,4.5,4,4,errantnight,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1244051763,4,3.5,5,wnh,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1243717445,3.5,4,3.5,stephens101,American IPA,3.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1243124566,4,3.5,3.5,akorsak,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1242961700,4,4,4,dukew456,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1242846863,4,4.5,4,sholland119,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1242592642,4,4,4,beer2day,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1241873726,4.5,4,4,zeff80,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1241160146,4,4,4,HairOfTh3Dog,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1240794560,4.5,4,4,dirtylou,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1240714040,4.5,4,4.5,naterock,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1240713647,4.5,4,4.5,SpecialK088,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1240592562,4.5,4,4,jdense,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1239571332,4.5,5,5,dakid618,American IPA,4.5,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1239324913,3.5,3.5,4,Kraken,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1239073434,4,4,4,Tone,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1237515024,3.5,4,4,dyan,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1236737716,3.5,4,3.5,gabeerfan,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1236041922,4.5,4,4,pinotboy007,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1235943951,5,4,4.5,mtrentm,American IPA,4,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1235619440,4,4,4,blackie,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1235613864,4.5,3.5,4,jdoncbus,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1235277432,4,4.5,4,Jimbo87,American IPA,3.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1234656110,4.5,4,4.5,BeerSox,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1234301545,4,4,4,bbothen,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1218555178,4,4,3.5,tpd975,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1234287685,4.5,4,4,Kegatron,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1232941583,4,4.5,4,aforbes10,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1232781682,3,4.5,4,Proteus93,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1232468167,4.5,4,4.5,timtim,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1231859008,4,4.5,4,hopdog,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1231713855,4.5,4.5,4,gford217,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1229313862,4.5,4,4.5,Chelsea1905,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1229279300,4,4,4,MisterClean,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1228608585,4.5,5,4.5,maximum12,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1227579179,4,4,4,ThirstyHopHead,American IPA,4,4,Caldera IPA,6.1,10784
+850,Moon River Brewing Company,1100038819,4,3.5,4,aracauna,Scotch Ale / Wee Heavy,3.5,3.5,The Highland Stagger,,20689
+1075,Caldera Brewing Company,1226798393,3.5,4,4,Gueuzedude,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1226202860,4.5,4,4.5,pjwilson,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1225055611,4,4.5,4.5,koopa,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1223376492,4.5,4,4.5,DIM,American IPA,5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1223073891,4.5,4,4,GbVDave,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1222305980,4.5,4,4,CrellMoset,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1220137480,4.5,4,4,AKBelgianBeast,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1219003036,4,3.5,3.5,beereality,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1218500388,4,4.5,4,Wetpaperbag,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1217995556,4,4,4,mnapier,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1217379515,4.5,4,4.5,largadeer,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1216685474,4.5,4,4,RedDiamond,American IPA,5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1215664516,4,4.5,4,MiguelMandingo,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1214858603,4.5,4.5,4,JDV,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1214181956,3.5,3.5,4.5,woemad,American IPA,3.5,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1212289363,3.5,4.5,4,cjgator3,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1205560860,4,4.5,4,Spikester,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1211933145,4,4,4.5,cburian,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1210553646,4.5,4,4,kirok1999,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1210461583,4.5,4,4.5,Wasatch,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1208728799,4,4,4,MuenchenerKindl,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1207535403,5,4,4,libertygrails,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1207378146,3.5,3.5,3,ccrida,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1206684668,3.5,4,4,BeerZack,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1206392607,4.5,2.5,3,brentk56,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1205645855,4,3.5,5,russpowell,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1205010007,3.5,4,4,seaoflament,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1204167240,4,4.5,4.5,flexabull,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1204003782,3,2,3.5,Reidrover,American IPA,3,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1203825901,1.5,3.5,4,PhxHorn,American IPA,2,2,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1203788586,4.5,4.5,4.5,WVbeergeek,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1203382386,4.5,4.5,4,unclederby,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1202967279,4,4.5,4,SurlyDuff,American IPA,4,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1199162879,3,3.5,3,Dubbercody,American IPA,3,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1197841680,3.5,4,4,ChainGangGuy,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1194852821,4,4,4,Floydster,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1194792567,4.5,4.5,4,BuckeyeNation,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1192478498,4,4,5,Bierguy5,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1191180572,4.5,4.5,4,blakesell,American IPA,3,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1190238782,4,4,4.5,mcallister,American IPA,3,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1189824893,4,4,3.5,cswhitehorse,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1189784159,4,4,3.5,weeare138,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1188972053,4,4.5,4,msubulldog25,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1188694023,4.5,4.5,4,kevinmkirk,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1187838938,4,4.5,4,genog,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1187323014,4.5,4.5,4,franksnbeans,American IPA,5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1136235212,4.5,3.5,4.5,ElGordo,American IPA,5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1111791303,4,4,4,bootylicious,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1109005792,3.5,4,4,Redrover,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1318562278,4,4,4,Klym,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1318486605,4,4.5,4,BerkeleyBeerMan,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1317776598,4,4,3.5,9InchNails,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1317431717,4.5,4,4,kingjames1,American IPA,4,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1317178404,4,4.5,4,Hopfenpeter,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1316813352,4,4,4,Tucquan,American IPA,3.5,4,Caldera IPA,6.1,10784
+14879,Hoppin' Frog Brewery,1233471180,4,4,4,Ummagum,American IPA,4,4,Hoppin' To Heaven IPA,6.8,33624
+1075,Caldera Brewing Company,1315516058,4,4,4,ReelBigwigFish,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1314517713,4,4.5,4,peabody,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1313448304,4,4.5,4,dcloeren,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1313273446,4,4.5,4,jeff1973,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1312779370,4,4,4,BrewerB,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1312752768,4,3.5,4,KMcG,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1312692710,4.5,4,4,unionturf,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1312522547,3.5,3.5,4,LSUPT,American IPA,5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1312467418,3,3,4,sendsilk,American IPA,3,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1312389903,4,4.5,4,NStLincoln,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1312297641,3.5,4,4,harrymel,American IPA,3,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1311635580,3,3.5,3.5,Phelps,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1311383775,3,3.5,4,Alieniloquium,American IPA,3,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1309654508,3.5,3.5,3.5,HopDiggityDawg,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1309289930,4.5,4.5,3.5,CuttDeez,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1309232053,4,4.5,4,Knapp85,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1309206819,4.5,4.5,4,SaCkErZ9,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1309197215,4.5,4,4.5,Jenkster4,American IPA,4.5,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1309012596,3,3.5,4,tone77,American IPA,3.5,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1308806158,4,3.5,3.5,litheum94,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1308360223,4,3.5,4,Yagman3000,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1308258538,4,4.5,4.5,cbros,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1295051076,4,3.5,4,cbak999,American IPA,4,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1308197572,3,3.5,4,seeswo,American IPA,3.5,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1307823635,4,4,4.5,Georgiabeer,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1307540830,4,4,4,oberon,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1307414867,4,3.5,4.5,IronLover,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1307227322,4.5,4.5,3,chocosushi,American IPA,4,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1307191996,4,4,4,Thorpe429,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1307107975,3,3,4,tripelhops,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1306993015,4.5,5,4,Schmit,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1306940546,4,3,4,beagle75,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1267323401,4,4,4,cswhitehorse,American IPA,4,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1306711927,3.5,3,4.5,biglobo8971,American IPA,3.5,3,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1306544792,3.5,4,4,NWer,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1306213612,4,4,4,Dope,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1306002194,4,4,4,seans86,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1305514937,4,4.5,5,chugalug06,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1305509552,4.5,4,4.5,JCaweinstein,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1305416445,4,4,4.5,bluejacket74,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1305234074,4,4,4,felipe2toes,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1305154329,4.5,5,4,Nugganooch,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1304497206,4,4,4,MaltsOfGlory,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1304395617,4.5,4,4.5,robbrandes,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1304241876,4,4,4,rootbeerman,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1303877384,4,4,3.5,dubinsky,American IPA,4,5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1303603331,4,4,5,TheSarge,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1303345928,3.5,3,4,thebeerisgood,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1303342207,4.5,4,5,richkrull,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1302758157,4,4,4,colts9016,American IPA,4,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1312710063,4,4,4,MTNboy,American Amber / Red Ale,4,4.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1302406558,4,4.5,4,shand,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1302373074,4.5,4,4.5,haddon,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1300254593,4,4,4.5,FosterJM,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1300226155,4.5,4.5,4,itsfreeasinbeer,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1299990272,4,3.5,3,generalnotsew,American IPA,3,2.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1299614816,4,4.5,4,betsona,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1299470163,4,4,4.5,whatthehull,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1299091519,4.5,3.5,4,Scotchboy,American IPA,3.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1298841962,4,3.5,4,StoneTSR,American IPA,4.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1298434789,4,4,4,notchucknorris,American IPA,4.5,3.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1298238484,4.5,4,4,portia99,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1297990589,4,3.5,4,u2carew,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1297564790,3,2.5,3,goldbot,American IPA,3,2.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1297138774,4,3.5,4,Crabbicuss,American IPA,3.5,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1325439672,4,4,4,Rifugium,American Porter,3.5,4,Coconut Porter,9.5,76963
+1075,Caldera Brewing Company,1316025300,4,4,4,Beerandraiderfan,American Amber / Red Ale,4,4,Dry Hop Orange,5.6,23290
+1075,Caldera Brewing Company,1256588802,4,4.5,4,Bliss,American Amber / Red Ale,4.5,4.5,Dry Hop Orange,5.6,23290
+7345,Kirner Bier,1271519793,4,3,3.5,soju6,German Pilsener,4,4,Kirner Pils Premium,4.8,49803
+1075,Caldera Brewing Company,1186464845,4,4,4,css82420,American Amber / Red Ale,3.5,4,Dry Hop Orange,5.6,23290
+1075,Caldera Brewing Company,1178240189,4,4,4,msubulldog25,American Amber / Red Ale,3.5,4,Dry Hop Orange,5.6,23290
+1075,Caldera Brewing Company,1120893092,3.5,3.5,3.5,Reidrover,American Amber / Red Ale,3,3.5,Dry Hop Orange,5.6,23290
+1075,Caldera Brewing Company,1114161035,3.5,3.5,3,charlatan,American Amber / Red Ale,3.5,3.5,Dry Hop Orange,5.6,23290
+1075,Caldera Brewing Company,1260673921,4,4,4,plaid75,American IPA,4,4,Alpha Beta,,54723
+1075,Caldera Brewing Company,1100741619,3,4,4,RedDiamond,German Pilsener,3,3,Caldera Pilsener Bier,5.2,3274
+1075,Caldera Brewing Company,1017782385,4.5,4,5,venneman,German Pilsener,4,4.5,Caldera Pilsener Bier,5.2,3274
+1075,Caldera Brewing Company,1281555381,2.5,3.5,3,cbarrett4,Fruit / Vegetable Beer,2.5,3,Hibiscus Ginger Beer,4.7,60951
+1075,Caldera Brewing Company,1185477411,3.5,3.5,3,ccrida,Fruit / Vegetable Beer,4,3.5,Exotic Erotic Passion Fruit Ale,5,37917
+1075,Caldera Brewing Company,1323451554,4,4,4.5,beer2day,American IPA,4.5,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1297656954,3.5,3.5,3.5,cjgator3,American IPA,3.5,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1321942858,4,4.5,4,whatthehull,American IPA,4,4.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1318649689,4,3,3.5,Satchboogie,American IPA,3.5,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1318236286,1.5,2,3,barleywinefiend,American IPA,1.5,1.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1317341123,3.5,3,4.5,titosupertramp,American IPA,4,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1314752908,3.5,3.5,4.5,oberon,American IPA,4,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1314669662,4,2,4,nc41,American IPA,4,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1314460181,4,3.5,4,flexabull,American IPA,4.5,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1314397307,3,3.5,4,FanofHefe,American IPA,3.5,3,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1314048849,3,3,4,Tilley4,American IPA,3.5,3,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1311721690,4,4,4,Knapp85,American IPA,4,3.5,Hopportunity Knocks,6.8,56071
+163,Amstel Brouwerij B. V.,1264904623,3.5,2.5,3.5,brownbeer,Light Lager,3,3,Amstel Light,3.5,436
+1075,Caldera Brewing Company,1311117145,3.5,3.5,4,brentk56,American IPA,4,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1309310405,3,3,3.5,TheWhiskerReview,American IPA,3.5,3,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1309057163,3.5,3.5,3.5,NorCalYeti,American IPA,3.5,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1306967955,2,3,3.5,Alieniloquium,American IPA,2,2,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1305780859,3,3.5,4,mactrail,American IPA,3.5,3,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1301344172,3.5,3,4,beagle75,American IPA,4,3,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1298328395,3,3,4,CliffBrake,American IPA,3.5,3,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1298042864,2,2,4,ggroller,American IPA,3,2,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1297913790,4,4,4,Rutager,American IPA,4,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1297108013,4,4,3.5,Reidrover,American IPA,4,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1292893578,3.5,4,4,GarthDanielson,American IPA,4,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1291682957,4,3.5,4,RoyalT,American IPA,3.5,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1291176949,4,2.5,4,youradhere,American IPA,3,2.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1291147074,4.5,4,4.5,JeffBob,American IPA,4.5,4.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1288459315,3.5,3.5,4.5,TCHopCraver,American IPA,4,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1287971081,3,3,3,chumba526,American IPA,3.5,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1287616948,3.5,3.5,4,BuckyFresh,American IPA,4,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1286943517,4.5,3.5,4,Chelsea1905,American IPA,4,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1290902913,3.5,4,3,StaveHooks,American Amber / Red Ale,3.5,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1285906208,4,4,4,Beerandraiderfan,American IPA,4,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1285369483,3,3,3,RonfromJersey,American IPA,3,3,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1285298831,3.5,3.5,4,Docer,American IPA,3,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1284866616,4,4,4,GreenCard,American IPA,4,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1284236920,3.5,3.5,4,Reagan1984,American IPA,4,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1283789454,2.5,2,4.5,djmichaelk,American IPA,4.5,3,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1283223460,3.5,3.5,3.5,JohnGalt1,American IPA,4,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1282094906,3.5,4,4.5,billshmeinke,American IPA,3.5,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1281519201,4,3.5,4.5,rand,American IPA,4.5,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1280643115,3,3.5,3.5,BrewsB4Shrews,American IPA,3,2.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1279673929,4,3.5,4.5,ShogoKawada,American IPA,4,4.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1279326716,3,2,4,ktrillionaire,American IPA,2.5,3,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1278987576,4,3.5,4,Gobzilla,American IPA,3.5,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1278984978,3.5,4,4.5,augustgarage,American IPA,4,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1278869189,4,4,4,jdense,American IPA,3.5,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1277663424,4,4,4,jorg2619,American IPA,4,4,Hopportunity Knocks,6.8,56071
+163,Amstel Brouwerij B. V.,1256087221,3.5,3,2.5,tone77,Light Lager,3,2.5,Amstel Light,3.5,436
+1075,Caldera Brewing Company,1276824899,4,4,4,brewandbbq,American IPA,4,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1276655452,3.5,3.5,4,SpdKilz,American IPA,4,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1275779006,3.5,4,4,Halcyondays,American IPA,3.5,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1275021171,4,4,4,ClockworkOrange,American IPA,4,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1274540724,3.5,4,4.5,zoso1967,American IPA,4,4,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1271120894,3.5,4,4,ccrida,American IPA,3.5,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1270773135,4,3,4.5,vince4953529,American IPA,4,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1268330124,3,3.5,4,mpensworth,American IPA,3,3.5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1267513681,4,4,4.5,Spikester,American IPA,4,4,Hopportunity Knocks,6.8,56071
+14879,Hoppin' Frog Brewery,1320811507,4,4,4,baconbourbon,Russian Imperial Stout,4.5,4,Barrel Aged B.O.R.I.S. Oatmeal Imperial Stout,9.4,47695
+1075,Caldera Brewing Company,1267073262,5,4,4.5,kevinmkirk,American IPA,4,5,Hopportunity Knocks,6.8,56071
+1075,Caldera Brewing Company,1212201268,4.5,4.5,4,grumpy,American Double / Imperial Stout,4,4.5,Imperial Stout,,42964
+1075,Caldera Brewing Company,1100675578,5,4,4.5,freed,American Strong Ale,4.5,5,Cauldron Brew,7.6,10793
+1075,Caldera Brewing Company,1242585931,4,3.5,4,HopDerek,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1237619118,4.5,4.5,3.5,Spikester,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1236796559,4,4,4,djeucalyptus,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1222463257,4,4,4,pjbear05,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1171415361,4,3.5,4,flexabull,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1112670229,3.5,3.5,4,KoG,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1290659697,4,3,4,Beerandraiderfan,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1105475593,4,3.5,3.5,Crotor,American Amber / Red Ale,3.5,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1103504824,2.5,2,3,RedDiamond,American Amber / Red Ale,3,2.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1325203961,3.5,3,2.5,Hopswagger,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1321930609,4.5,4,4.5,BrewerB,American Amber / Red Ale,4,4.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1321644594,3.5,4,4,Samp01,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1320882789,4,4,4,tdm168,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1317255653,3,2.5,3,Ryan011235,American Amber / Red Ale,3.5,3,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1315424350,4.5,4.5,4.5,cbarrett4,American Amber / Red Ale,4.5,4.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1315362671,4,3.5,4.5,ReelBigwigFish,American Amber / Red Ale,4.5,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1311634196,3.5,3,3.5,Phelps,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1311501130,3.5,3.5,3.5,rootbeerman,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1309930169,4,4.5,4,oglmcdgl,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1309322165,4,3.5,4,zeledonia,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1307054114,3.5,3.5,4,kbutler1,American Amber / Red Ale,4,3,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1306638282,3.5,3.5,4,loren01,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1304496933,3.5,3,3.5,MaltsOfGlory,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1302402558,3.5,3.5,4,sulldaddy,American Amber / Red Ale,4.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1298939599,4.5,3,4.5,bagpiper2005,American Amber / Red Ale,3.5,4.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1298334430,4.5,3.5,4,tbraun1,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1298086841,3.5,2,4.5,KomodoDragon,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1297818763,3,3,4,u2carew,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1297278402,4,4,4,NeroFiddled,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1297077581,4,4,4,Flightoficarus,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1294636662,4.5,4.5,4.5,morenone,American Amber / Red Ale,4.5,4.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1293140509,4,3.5,4.5,oberon,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1292778417,3.5,4,4,lstokes,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1291069813,4.5,3.5,4,Offa,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1284677572,3,3.5,4,biglite351,American Amber / Red Ale,2,3,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1289994936,4,4,4,AEK,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1289878777,4,4,3.5,tchenery,American Amber / Red Ale,3.5,5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1288379634,4.5,4.5,4,maximum12,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1287958974,4,4,4,elgiacomo,American Amber / Red Ale,3.5,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1287252138,3,3,3,Reidrover,American Amber / Red Ale,3,3,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1286064454,4,4,4,Tilley4,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1286035319,1.5,1.5,3,bobhits,American Amber / Red Ale,2,2,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1285541017,4,4,3.5,emmasdad,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1285041452,4.5,3.5,3,brewdlyhooked13,American Amber / Red Ale,4.5,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1285032976,4.5,4,4.5,Jason,American Amber / Red Ale,4.5,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1283788431,3,3,3,htomsirveaux,American Amber / Red Ale,3,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1281635456,4,3.5,4,GarrettMD,American Amber / Red Ale,3.5,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1280859910,4.5,4,3.5,bump8628,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1280119659,4,3.5,4,philbertk,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1278794319,3,4,3.5,ZSimon,American Amber / Red Ale,3.5,2.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1276469893,4,4,4.5,jkrich,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1275573665,4,4,4,Brent,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1275171065,4,3.5,3.5,tempest,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1272594505,4.5,4,4,indiapaleale,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1271907396,4,4,4,abrand,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1271893864,4,3.5,3.5,kiddynamite920,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1271703926,4,4,4.5,Slatetank,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1271483628,3.5,4,4,obywan59,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1269706889,4,4,4,Mora2000,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1269322876,3.5,3.5,4,womencantsail,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1268701251,4,3.5,4,seanbhudson,American Amber / Red Ale,4.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1268493180,4,3.5,4,barleywinefiend,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1267834574,4.5,3.5,4.5,flexabull,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1267571128,3,3,3,beertunes,American Amber / Red Ale,3,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1267230915,4.5,4,4,WesWes,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1266966032,4,3.5,4,armock,American Amber / Red Ale,3.5,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1266441484,4,3.5,4.5,fropones,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1266281870,4,3.5,4,organicbrewer,American Amber / Red Ale,3,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1266250757,4,3.5,4,rfgetz,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1265775449,2,3.5,4,onix1agr,American Amber / Red Ale,2.5,2,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1262914829,4,4,4,jwc215,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1261972708,4,4,4,vacax,American Amber / Red Ale,4.5,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1258899657,4,4.5,4,woodychandler,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1258791231,4,3,3.5,JohnGalt1,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1253915877,4,3.5,3.5,Deuane,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1253246085,3.5,3.5,4,BeachRez,American Amber / Red Ale,3.5,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1251926192,3.5,3.5,4,Halcyondays,American Amber / Red Ale,3.5,4,Ashland Amber,5.4,10785
+850,Moon River Brewing Company,1025548668,4,3.5,3,tigerpaws,Belgian Pale Ale,4,4,Inspiration Ale,6,2724
+1075,Caldera Brewing Company,1251689859,4,4,4,russpowell,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1251325335,3.5,3.5,4,NJpadreFan,American Amber / Red Ale,3.5,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1251164217,4,4,4,philbe311,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1250827585,3.5,3.5,4,Wetpaperbag,American Amber / Red Ale,3.5,3,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1250647291,3.5,4,3,Beejay,American Amber / Red Ale,3,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1250121337,4.5,4,4,Wasatch,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1249597545,4,4,4,tronester,American Amber / Red Ale,4.5,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1248991175,4,3.5,4,RedDiamond,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1248203468,4,3.5,4,Seanibus,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1248142254,3.5,3.5,4,BEERchitect,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1248004066,4,3.5,4,BuckeyeNation,American Amber / Red Ale,4.5,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1247330238,4,3.5,3.5,BeerBelcher,American Amber / Red Ale,3,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1246803927,3,3,3.5,bamadog,American Amber / Red Ale,2,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1246800732,3,2.5,3,kels,American Amber / Red Ale,2,2,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1245431093,4,4,4,Kegatron,American Amber / Red Ale,3,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1245191629,4,3.5,3.5,stephens101,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1245032698,4,3,3.5,DiabolikDUB,American Amber / Red Ale,4,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1245003767,4,4,4,Goliath,American Amber / Red Ale,3.5,3.5,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1244397434,4,3.5,3.5,BeerSox,American Amber / Red Ale,4,4,Ashland Amber,5.4,10785
+1075,Caldera Brewing Company,1316019100,4.5,4,4.5,flexabull,American Pale Ale (APA),4.5,4.5,Hop Hash,7,72330
+1075,Caldera Brewing Company,1313961584,4.5,4.5,4,cbarrett4,American Pale Ale (APA),4,4,Hop Hash,7,72330
+1075,Caldera Brewing Company,1325019656,4.5,4.5,4,comfortablynumb1,American Porter,4,4.5,Mogli,8.5,60990
+1075,Caldera Brewing Company,1315696060,4.5,4.5,3.5,flexabull,American Porter,4,4.5,Mogli,8.5,60990
+1075,Caldera Brewing Company,1314587679,4.5,4.5,3.5,HuskyinPDX,American Porter,4,5,Mogli,8.5,60990
+1075,Caldera Brewing Company,1309553569,4.5,4,4.5,Beerandraiderfan,American Porter,4.5,4.5,Mogli,8.5,60990
+1075,Caldera Brewing Company,1307394834,4,4.5,3.5,drabmuh,American Porter,4,4,Mogli,8.5,60990
+1075,Caldera Brewing Company,1307190968,4,4.5,4,Thorpe429,American Porter,4.5,4,Mogli,8.5,60990
+8802,Conwy Brewery Ltd,1317923437,3,4,3,atis,English Bitter,3.5,3.5,Welsh Pride,4,45543
+1075,Caldera Brewing Company,1283903842,4.5,5,5,TheBeerCarl,American Porter,4,4.5,Mogli,8.5,60990
+1075,Caldera Brewing Company,1283188640,4.5,4,5,beagle75,American Porter,4,4.5,Mogli,8.5,60990
+1075,Caldera Brewing Company,1282674179,5,4.5,5,eatabagofbooger,American Porter,5,5,Mogli,8.5,60990
+1075,Caldera Brewing Company,1281680251,5,5,4.5,squaremile,American Porter,5,4.5,Mogli,8.5,60990
+8802,Conwy Brewery Ltd,1264793461,3,4,3,atis,English Bitter,3.5,3.5,Welsh Honey Bitter,4.5,54216
+8802,Conwy Brewery Ltd,1258597039,3.5,3.5,3,Derek,English Bitter,3.5,3.5,Welsh Honey Bitter,4.5,54216
+8802,Conwy Brewery Ltd,1193342534,4.5,4,4.5,Absumaster,English Porter,4.5,4,Telford Porter,5.6,39314
+8802,Conwy Brewery Ltd,1226430885,3,3,3,wl0307,English Bitter,3,3,Celebration Ale,4.2,45855
+8802,Conwy Brewery Ltd,1269543115,4,3,3.5,BlackHaddock,English Bitter,4,4,Welsh Pride,4,45543
+8802,Conwy Brewery Ltd,1224787416,3,3,3.5,wl0307,English Bitter,3.5,3,Welsh Pride,4,45543
+8802,Conwy Brewery Ltd,1277531645,3.5,3.5,3.5,nickfl,English Bitter,3.5,3.5,Honey Fayre,4.5,45628
+8802,Conwy Brewery Ltd,1225307603,3,3,3.5,wl0307,English Bitter,3.5,3.5,Honey Fayre,4.5,45628
+2724,Pacific Coast Brewing Company,1291597385,2.5,3.5,3.5,isualum12,American Double / Imperial IPA,4,3.5,Holiday Imperial,9,55951
+2724,Pacific Coast Brewing Company,1265579599,2.5,3,3.5,kaseydad,American Double / Imperial IPA,3,3,Holiday Imperial,9,55951
+2724,Pacific Coast Brewing Company,1203379514,3.5,3,3.5,barleywinefiend,American IPA,3,3,Columbus India Pale Ale,7,8769
+2724,Pacific Coast Brewing Company,1046615212,4,4,4,Mark,American IPA,4.5,3.5,Columbus India Pale Ale,7,8769
+2724,Pacific Coast Brewing Company,1293558756,3,3,3.5,womencantsail,American Strong Ale,3.5,3,Holiday XXII Imperial Blue,9,64800
+2724,Pacific Coast Brewing Company,1304527785,3.5,4,4.5,t0rin0,Irish Dry Stout,4,3.5,Luck O' The Irish,4.5,68668
+7345,Kirner Bier,1322936425,3.5,3.5,3.5,sim0n17,German Pilsener,4,3.5,Kirner Pils Premium,4.8,49803
+2724,Pacific Coast Brewing Company,1304531044,3.5,4,3,t0rin0,English Strong Ale,3.5,4,Old Oakland Ale,8,68672
+2724,Pacific Coast Brewing Company,1305478493,3,3,3.5,t0rin0,American Blonde Ale,3.5,3,Yellowjacket Ale,4.1,69087
+2724,Pacific Coast Brewing Company,1293559076,1,1.5,3,womencantsail,American Strong Ale,2.5,1.5,Megalodon,,64803
+2724,Pacific Coast Brewing Company,1296878839,4,4,4.5,kaseydad,American Barleywine,4.5,4,Code Blue,10.4,15894
+2724,Pacific Coast Brewing Company,1280811779,1.5,3,2.5,4000qtrap,American Barleywine,2.5,1.5,Code Blue,10.4,15894
+2724,Pacific Coast Brewing Company,1276400579,4,3.5,3.5,BigMcLargeHuge,American Barleywine,4,4.5,Code Blue,10.4,15894
+2724,Pacific Coast Brewing Company,1274683803,3.5,3.5,3.5,emmasdad,American Barleywine,4,3.5,Code Blue,10.4,15894
+2724,Pacific Coast Brewing Company,1203378126,4,4,4,barleywinefiend,American Barleywine,4,4,Code Blue,10.4,15894
+2724,Pacific Coast Brewing Company,1076738277,4,4.5,4,lou91,American Barleywine,4.5,4,Code Blue,10.4,15894
+2724,Pacific Coast Brewing Company,1217651855,3.5,3.5,3,barleywinefiend,American Porter,3.5,3.5,Orca Porter,5.1,44082
+2724,Pacific Coast Brewing Company,1293611047,3,4,4,womencantsail,American Double / Imperial Stout,3.5,3,Leviathan Imperial Stout,10,39606
+2724,Pacific Coast Brewing Company,1291596349,4.5,3.5,4,isualum12,American Double / Imperial Stout,4,3.5,Leviathan Imperial Stout,10,39606
+1386,Harmon Restaurant & Brewery,1249148963,2.5,2.5,2.5,froghop,American Blonde Ale,2.5,2.5,Mt. Takhoma Blonde Ale,3.8,31973
+2724,Pacific Coast Brewing Company,1278811077,4.5,3.5,3.5,4000qtrap,American Double / Imperial Stout,3,2.5,Leviathan Imperial Stout,10,39606
+2724,Pacific Coast Brewing Company,1249951968,4,4,4.5,Georgiabeer,American Double / Imperial Stout,4,4,Leviathan Imperial Stout,10,39606
+2724,Pacific Coast Brewing Company,1215743127,4,4,4.5,hoegaardenhero,American Double / Imperial Stout,4.5,4,Leviathan Imperial Stout,10,39606
+2724,Pacific Coast Brewing Company,1214537995,3,3,3.5,cggarcia,American Double / Imperial Stout,3.5,4,Leviathan Imperial Stout,10,39606
+2724,Pacific Coast Brewing Company,1203378427,4,4,4,barleywinefiend,American Double / Imperial Stout,4,4,Leviathan Imperial Stout,10,39606
+2724,Pacific Coast Brewing Company,1194983629,4.5,4,4.5,grumpy,American Double / Imperial Stout,4.5,4,Leviathan Imperial Stout,10,39606
+2724,Pacific Coast Brewing Company,1205614154,1.5,2,1.5,JDV,Belgian Strong Pale Ale,1,3,Holiday Trappist Style Ale,,41584
+2724,Pacific Coast Brewing Company,1064196353,3,3,3,beerguy101,Doppelbock,3,3,Deviator Doppelbock,8,12835
+2724,Pacific Coast Brewing Company,1293606355,1.5,1.5,3,womencantsail,American Amber / Red Ale,3,2,Blue Whale Ale,7.1,51834
+2724,Pacific Coast Brewing Company,1291597076,3.5,3,3.5,isualum12,American Amber / Red Ale,3.5,4,Blue Whale Ale,7.1,51834
+2724,Pacific Coast Brewing Company,1250125520,4,4,4.5,Natural510,American Amber / Red Ale,4,4,Blue Whale Ale,7.1,51834
+2724,Pacific Coast Brewing Company,1304532960,3,3,4,Beerandraiderfan,American Pale Ale (APA),3,3.5,Grey Whale Ale,4.6,41084
+163,Amstel Brouwerij B. V.,1247523992,4,2,2,Cobratrooper,Light Lager,3,3,Amstel Light,3.5,436
+2724,Pacific Coast Brewing Company,1293610149,2,2.5,3,womencantsail,American Pale Ale (APA),3.5,2,Grey Whale Ale,4.6,41084
+2724,Pacific Coast Brewing Company,1291597816,1.5,3,2.5,isualum12,American Pale Ale (APA),2.5,4,Grey Whale Ale,4.6,41084
+2724,Pacific Coast Brewing Company,1203380218,4,3.5,3.5,barleywinefiend,American Pale Ale (APA),3.5,3.5,Grey Whale Ale,4.6,41084
+2724,Pacific Coast Brewing Company,1293610540,3.5,4,4,womencantsail,American Stout,3.5,3.5,Killer Whale Stout,5,8770
+2724,Pacific Coast Brewing Company,1291596683,2.5,2,4.5,isualum12,American Stout,4,2.5,Killer Whale Stout,5,8770
+2724,Pacific Coast Brewing Company,1226877087,4.5,4,5,jjboesen,American Stout,4.5,4,Killer Whale Stout,5,8770
+2724,Pacific Coast Brewing Company,1203378644,4,3.5,3.5,barleywinefiend,American Stout,4,4,Killer Whale Stout,5,8770
+2724,Pacific Coast Brewing Company,1200257612,4.5,4.5,3.5,MisterClean,American Stout,4.5,5,Killer Whale Stout,5,8770
+2724,Pacific Coast Brewing Company,1046615597,4,4,4.5,Mark,American Stout,4.5,4,Killer Whale Stout,5,8770
+2724,Pacific Coast Brewing Company,1215743407,4,3.5,4,hoegaardenhero,American Amber / Red Ale,4.5,3.5,Emerald Ale,,37498
+2724,Pacific Coast Brewing Company,1203379699,4,4,4,barleywinefiend,American Amber / Red Ale,4,4,Emerald Ale,,37498
+2724,Pacific Coast Brewing Company,1183260774,4,4,4.5,Mark,American Amber / Red Ale,4.5,4,Emerald Ale,,37498
+7345,Kirner Bier,1309045277,4,3.5,4.5,seanyfo,Maibock / Helles Bock,4,4,Schinderhannes Bock,7.1,70395
+7345,Kirner Bier,1253129442,4,3,4,illidurit,German Pilsener,3.5,3.5,Kirner Pils Premium,4.8,49803
+7345,Kirner Bier,1242400162,4.5,4.5,3.5,TheSarge,German Pilsener,4,4,Kirner Pils Premium,4.8,49803
+12770,City Grille and Brewhaus,1145739752,3,3.5,4.5,UncleJimbo,Fruit / Vegetable Beer,3.5,3,City Razz,,30090
+12770,City Grille and Brewhaus,1145738287,3,3,3,UncleJimbo,Light Lager,3,3.5,City Light,,30084
+12770,City Grille and Brewhaus,1145738954,4,3,4,UncleJimbo,American Pale Ale (APA),3.5,4,City Pale Ale,,30088
+12770,City Grille and Brewhaus,1145739283,4,4,4,UncleJimbo,American Stout,4,4,City Stout,,27689
+12770,City Grille and Brewhaus,1136485310,1.5,2,3,grumpy,American Stout,1,1.5,City Stout,,27689
+12770,City Grille and Brewhaus,1145739497,3.5,3.5,3.5,UncleJimbo,Pumpkin Ale,3,3,City Pumpkin,,30089
+12770,City Grille and Brewhaus,1145738512,3.5,3,4,UncleJimbo,American Amber / Red Ale,3,3.5,City Amber,,30085
+163,Amstel Brouwerij B. V.,1258123064,3,3.5,2.5,RuudJH,Dortmunder / Export Lager,3,3,Amstel Gold,7,1415
+163,Amstel Brouwerij B. V.,1171328855,4,3,3.5,Vancer,Dortmunder / Export Lager,3.5,3.5,Amstel Gold,7,1415
+163,Amstel Brouwerij B. V.,1102726891,3,3,4,ahking,Dortmunder / Export Lager,3.5,2.5,Amstel Gold,7,1415
+163,Amstel Brouwerij B. V.,1246937762,3,2,2,ExtraStout,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1297791964,3.5,3.5,4,RuudJH,Euro Strong Lager,3,3,Amstel Sterk (Strong),7.5,66308
+163,Amstel Brouwerij B. V.,1129129727,2.5,2.5,3,patto1ro,Euro Dark Lager,1.5,2,Amstel Oud Bruin,,1419
+163,Amstel Brouwerij B. V.,1309642281,3,3,3.5,Brabander,Low Alcohol Beer,3,3.5,Amstel Malt,0.1,59239
+163,Amstel Brouwerij B. V.,1276609571,3.5,2,3.5,kingcrowing,Low Alcohol Beer,3,2.5,Amstel Malt,0.1,59239
+163,Amstel Brouwerij B. V.,1272791396,2.5,2,2.5,GENNER,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1272414823,1.5,3,2.5,Halcyondays,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1270860946,4.5,3,2.5,tjsdomer2,Light Lager,4,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1270244341,1,2,2.5,donkeyrunner,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1269878716,4,1,2,vette2006c5r,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1269751239,2,1,2,buschbeer,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1269302021,3,3,3.5,BlackBearForge,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1266443559,2.5,2.5,4,ChainGangGuy,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1264903946,2,1.5,2,Clydesdale,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1264289044,2,1.5,1.5,hopheadjuice,Light Lager,2.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1263592461,1.5,1.5,3.5,jadpsu,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1263088566,2.5,2,3,Spineypanda,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1263018781,3,2,3,dpodratsky3,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1262761167,2.5,2,2,Chambic,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1262747638,4,2,2,realbama,Light Lager,2,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1261933783,3,3,2,heissebier,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1258997318,3,2,2.5,rfgetz,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1258683176,3.5,3,2,HalfFull,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1258004545,3.5,3.5,3,woodychandler,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1256767185,2,2,2.5,Kooz,Light Lager,1.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1255657907,3.5,2,2.5,Shumista,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1254651886,3.5,1.5,4,rvdoorn,Light Lager,3.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1254365013,2,2,2,Brenden,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1252976151,2,1.5,3.5,NeutroMan,Light Lager,2,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1252206477,2.5,2.5,2.5,BarrelO,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1251395170,4,2.5,3,FreshmanPour77,Light Lager,3.5,4,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1250838053,1.5,1.5,3,blackc5,Light Lager,1,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1250821825,1,2,4.5,CervezaMesa,Light Lager,1,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1250821002,3.5,2,3,cjgator3,Light Lager,3.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1249927519,3,2.5,3,Jwale73,Light Lager,3.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1248310049,3,2,3,morebeergood,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1246860601,3,2,4,onix1agr,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1246322173,2.5,2,3,TexIndy,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1245822612,3,3,3,hustlesworth,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1245028908,4,3.5,3,beerman207,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1244852064,4,2.5,2.5,CHickman,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1244216578,3,2.5,2.5,yuenglings,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1244089165,2,2.5,3,civilizedpsycho,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1244079983,3.5,2.5,3.5,ZorPrime,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1243204820,3.5,1.5,2.5,kflorence,Light Lager,2.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1241022919,4,3,3,tigg924,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1226451452,2,2.5,2.5,kinger,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1240882781,2,1.5,2,zdk9,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1240770690,2.5,2,2,grayburn,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1240171428,5,2,2,archerwrestler,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1239907791,2.5,2.5,1.5,roddwolff,Light Lager,2,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1239314051,3,2.5,3.5,Tilley4,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1239298313,2,2,2,Magpie14,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1238630329,4,2,2,birdypowder,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1238447624,1.5,1.5,2.5,KarlHungus,Light Lager,3.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1236554249,1.5,2,2,far333,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1235954167,5,2,3,McKnightOwl,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1235267331,2,1.5,4.5,SeattleBeerBlog,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1234840992,1.5,1.5,1.5,washburnkid,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1234469214,1.5,2,1.5,schroederm,Light Lager,1,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1234141296,2.5,2.5,2,AccidentalKate,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1233980106,1.5,1.5,1.5,thekanna,Light Lager,2.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1233636464,2.5,2.5,3.5,DesMoinesMike,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1233178158,3,2,3,bigaizsosexy,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1232929931,3,2,2,treehugger02010,Light Lager,3.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1232821844,2.5,2.5,2.5,harpo111,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1232748605,1,2,2,twentynine,Light Lager,3,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1232434189,1.5,2.5,3.5,tconboy,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1232404279,3,2.5,3,VicDip,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1232134054,4,2.5,3,Only23,Light Lager,2,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1231694388,3,2.5,3,WakeandBake,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1231641039,2.5,2,2,MillySox,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1231109090,2.5,2,3,SShelly,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1231032675,1,1.5,3,MNJR,Light Lager,1.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1230760553,3,2,3,Rayek,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1230733379,4,3.5,2.5,Hoagie1973,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1230684536,4.5,2,3,Devilsfan87,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1230526484,4.5,2,2,Mistofminn,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1229692701,2,1.5,3,OtherShoe2,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1229455458,4.5,4,3.5,caskstrength,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1228721393,4.5,2.5,2.5,gdfan47,Light Lager,3.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1228427781,2,3,3,armock,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1227579786,2,2,2,tmoneyba,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1227330650,2,2,3,pwent,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1227146969,2,2.5,1.5,hopdog,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1226887261,2.5,2,2,nick76,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1226010454,3,2,2,aerozeppl,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1225784657,3,2,3,Chelsea1905,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1225344450,3,3,2,bacabuck,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1224724205,4.5,2.5,2,Beerfoo87,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1224611868,3,2,2.5,CampusCrew,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1222237657,3,2,2,BoxingFanatic,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1219858981,3,3,3,akronzipfan,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1219791180,2,2,2,mwa423,Light Lager,3.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1219622274,2,1.5,3.5,RedChrome,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1219513332,2.5,2.5,3,changeup45,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1219271542,1.5,1,1.5,thekevlarkid,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1219193757,3,2.5,2,Zadok,Light Lager,2.5,2.5,Amstel Light,3.5,436
+3207,San Francisco Brewing Company,1200332278,4,4,3.5,bobsy,Weizenbock,4.5,4,St. Stephen's Bock,,34801
+163,Amstel Brouwerij B. V.,1219022467,5,3,4,ejthetiger,Light Lager,5,5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1218917663,3,2.5,2,Gmann,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1218416441,4,2,3,GoodKnight1220,Light Lager,4,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1326049162,2,2,1.5,mrfrancis,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1324003274,1,2.5,1,bobhits,Light Lager,1.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1323740274,2,2.5,2,mduncan,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1323499621,2.5,2.5,2.5,Chiefy770,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1323059185,3,3,3,Shibbykaiyai,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1322976375,2,2.5,3,kilustration,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1322412897,1.5,1,1,ForWhatAlesYou,Light Lager,1.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1320363026,2.5,2,3,Crossmd,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1318024688,4,3,4,jsdunlop,Light Lager,4,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1317695482,2,2,3,perrymarcus,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1218125848,3.5,3,1.5,bobinnola,Light Lager,1,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1217818449,1,1,2.5,Stinkypuss,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1217809902,4,2,2,cnally,Light Lager,2,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1217036134,3,2,2,Reagan1984,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1217001021,3,3,3,chilidog,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1216765843,1.5,2,2.5,beerthulhu,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1216244868,4,2.5,3,thechamp,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1185090470,2.5,2,3,Padron4KM,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1216160835,2,2.5,3.5,IBUnit63,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1214515651,2,2,2,GratefulBeerGuy,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1214421105,3.5,2,2.5,zeff80,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1212740275,3.5,2.5,3,Natural510,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1212470826,3,3,2,dasenebler,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1212125112,3.5,3,3,Slynger,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1212026621,2,1.5,2.5,yelterdow,Light Lager,3.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1211435352,4,1.5,2,tardiffism,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1211429848,2,1.5,1.5,mashedpotatoes,Light Lager,1,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1211367897,3,2,2,soupyman10,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1210690236,3,2,2.5,Bamabrew22,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1185055805,3,2,2.5,kevman527,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1210391933,4,3,3,gnargnar,Light Lager,3.5,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1210116236,1.5,1,2,rye726,Light Lager,1,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1207185331,3.5,3,3,HopsAreOverrated,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1206934843,3,2,2,gford217,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1206083216,3,2,2,RJLarse,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1205523099,2.5,2,2,dippy,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1205362021,1.5,1.5,2,avalon07,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1203623879,3,2,1,jwolfie70,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1203377608,2.5,2,2,mltobin,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1203360869,3.5,3,3,TrinkGermanBier,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1203212086,2,2.5,3,mooseisloose,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1202879548,3.5,2,3.5,PhiOmega,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1202673285,3,1,3,eberkman,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1201806138,3,3.5,2,JDV,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1201235318,2,2.5,3,auxiliary,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1200764409,3.5,3,4,blackie,Light Lager,3.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1200313939,3,3,3,dsa7783,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1199965407,2,3,3.5,PhillyCop,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1198412390,4,2,2,stanleykoolbrick,Light Lager,3,4,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1198294375,2,1.5,2,Lupe,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1197675336,3,2.5,2,flatblack80,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1195854774,4.5,4,3.5,BDIMike,Light Lager,4,4,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1180226494,2.5,3,2.5,Cyberkedi,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1194928706,5,4,4.5,NascarJDS,Light Lager,5,5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1191730865,3.5,2,3,KClarkin,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1190875643,2,2,2,Overlord,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1189958332,3,2,2.5,genog,Light Lager,3.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1189469400,2,2,2,Brad007,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1189389953,5,3,2,botham,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1189222449,3,2.5,2.5,argock,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1188181689,2.5,2.5,3,kajerm,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1186328640,3.5,2.5,2.5,somethingfishy,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1186266108,3,2.5,3,bushbeer75,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1186001011,3,2.5,2.5,Rainintheface,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1185844651,2,2,2.5,dmamiano,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1184607136,2,2,2.5,DoubleJ,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1184468130,1.5,2.5,2.5,biegaman,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1183597496,5,3,4,riemenschneider,Light Lager,2,4,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1182988641,3.5,3.5,3,tempest,Light Lager,3.5,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1182697582,1.5,1.5,2,pmcadamis,Light Lager,1.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1182017701,2.5,2.5,2,BeerBelcher,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1181954979,2,2,1,dacrza1,Light Lager,1,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1181432960,3.5,1.5,2,Atron67,Light Lager,1.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1180199416,3,3,2.5,Byeast,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1179103429,3,2.5,3,KiltedCulinarian,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1178163375,2.5,2,2,sleazo,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1177789119,3,2,2.5,coalcracker,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1175739970,2.5,2,2,TheManiacalOne,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1175390442,2.5,1.5,2.5,Drew966,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1172522924,2.5,3,2,stevete13,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1172024927,2.5,2,3,Schwarzbart,Light Lager,4,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1171805725,3,2,2,jaydanahy,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1170187140,3,2,3,pumarocks,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1169004035,3,3,3,dshockey,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1166931500,1.5,1.5,2.5,MrHurmateeowish,Light Lager,3,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1166689232,3,2.5,3,mmmbeer,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1166676057,4,3.5,3,zuggy9,Light Lager,3.5,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1166161870,2.5,2,3.5,joeldtaylor,Light Lager,3.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1165782823,4,3,3,jmbranum,Light Lager,3.5,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1163599437,3.5,3.5,3.5,BrianCavtanker,Light Lager,3.5,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1163474520,1,1,2,alysmith4,Light Lager,3,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1163195849,2.5,2.5,2.5,afinepilsner,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1160800060,3.5,3,4,BeerSox,Light Lager,3.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1160290885,1.5,1.5,3,goschool,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1159449620,3,2.5,2.5,teg8612,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1158713044,3.5,2,3,kimcgolf,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1158468503,3,1.5,1.5,AustinBeerLvr,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1158062802,1.5,2,2,andjusticeforale,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1158044475,2,1.5,2,TechMyst,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1157869654,3,3.5,3,31thadrty1,Light Lager,3.5,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1156544819,3.5,3,3,cbros,Light Lager,3.5,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1155871713,4,2.5,3,veech,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1155368812,3.5,3,3,cdubb,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1155367682,2.5,2.5,2.5,ghostmech007,Light Lager,2,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1155341557,3,3,3,jettjon,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1155184275,4,2.5,3.5,MusicmanSD,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1155081469,4,3,2.5,robocrouch,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1154143367,2,2,2,fido,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1152675333,2,2,2,aquatonex,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1152003454,2,1,1.5,Noobster,Light Lager,2,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1317093007,1,1.5,2,jmdrpi,Light Lager,2.5,2,Amstel Light,3.5,436
+3207,San Francisco Brewing Company,1096654366,1.5,1.5,2,rastaman,American Pale Ale (APA),1.5,1.5,North Beach Ale,,20114
+163,Amstel Brouwerij B. V.,1316998991,3,2.5,3,shealoftus14,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1316812960,2.5,2,1.5,drowninginhops,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1316123644,1,2,3,ChicagoHopHead,Light Lager,1,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1315350469,2.5,2,2.5,FanofHefe,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1314847810,1,1,1.5,crossovert,Light Lager,1.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1314121734,1.5,1.5,2.5,nickd717,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1313930502,1,2.5,2.5,mikeg67,Light Lager,2.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1313025136,2,2,2,kylehay2004,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1312377222,2.5,2,3,BEERME528,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1151427281,4.5,4.5,4,RBorsato,Light Lager,4,4,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1150750009,1.5,2,2.5,Gruntlumber,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1150227137,4.5,3,4,Brew1Up,Light Lager,3.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1150226701,3.5,3,2.5,AChamberlain,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1149316167,2,2,2,jwc215,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1148101808,3,2,2,supercolter,Light Lager,2.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1147662463,2.5,3,3,rhoadsrage,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1147654162,2,1.5,2.5,Ski39Off,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1147157053,1,2,2,therickguy78,Light Lager,1,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1146382086,4,1.5,3,palffyfan,Light Lager,2,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1146109605,2,1,2,akajimmyd,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1146088898,3,3,2.5,Sosh,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1145738271,2.5,3.5,3.5,scaliasux,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1145159944,2.5,3,2.5,bignick,Light Lager,1.5,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1143584825,4.5,3,4,MrSeth,Light Lager,4,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1143502843,3.5,3,2.5,squish059,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1142383598,3,2,2,jabocu,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1135576132,4,2,4,doctorjoeyboey,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1141479955,2,2,2.5,BuckeyeNation,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1140633269,3,2.5,3,WVbeergeek,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1140296127,3.5,2.5,2.5,oldirtycaffrey,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1140217536,4,2.5,2,Hibernator,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1139112224,3,3,2.5,Mebuzzard,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1138983360,3,2.5,1,DarkerTheBetter,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1138298363,2.5,3,2.5,tesguino,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1137965070,2.5,2.5,2,Koolbreeze2,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1137621467,4,2.5,3.5,Pepeton,Light Lager,3.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1136101815,4.5,3,4,casualbeerman,Light Lager,3,4,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1135643519,3,2.5,3,tgbljb,Light Lager,3,3,Amstel Light,3.5,436
+9020,Yazoo Brewing Company,1224350360,4,4,3,Likeburning,Hefeweizen,4,3.5,Hefeweizen,5,20575
+163,Amstel Brouwerij B. V.,1135572386,3,3,2.5,feloniousmonk,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1134650704,4,3,3,AndreiX,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1133667485,2.5,2,2.5,jmz62565,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1132967707,3.5,3,2.5,daliandragon,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1132610774,1,3,4,danielharper,Light Lager,2.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1130225001,3.5,2.5,3,faubs,Light Lager,3,4,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1129927499,4,2,3.5,johnshuster,Light Lager,3.5,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1129689280,2.5,1,1.5,DERTY1,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1124587322,4.5,3,3,tobyandgina,Light Lager,4,4,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1121738125,1,1.5,1,KoG,Light Lager,1.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1129670833,1.5,1.5,2,semihobo,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1127805274,2.5,1,1.5,Bumpon10s,Light Lager,1.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1127457831,4.5,2.5,3.5,ommegangpbr,Light Lager,3.5,4,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1127367514,3.5,2,2.5,aquaphyre,Light Lager,2,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1127013613,2.5,2,2.5,hotsidehot,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1127008310,2.5,2.5,3,brewQ,Light Lager,2,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1126929524,4,3,3,alankwak,Light Lager,3.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1125973014,3.5,2,2.5,scooter231,Light Lager,1.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1125771959,4.5,3,3,buxwheat,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1125432267,3,3,2,claymanhb,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1121258280,2,3,3,palliko,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1120966080,3,3.5,3.5,PBRstreetgang,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1120703617,3,2.5,3,BEERchitect,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1120583713,1.5,1.5,2,riversider76,Light Lager,3,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1119907194,1,2,2,chOAKbarrell,Light Lager,1.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1118437563,2.5,2,3,BrewMaven,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1117668796,2,2,2,Frozensoul327,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1117350355,2.5,3,2.5,whynot44,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1116981213,2,2,2,naf,Light Lager,1.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1115863581,4,2,3.5,rousee,Light Lager,4,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1114643634,4,2.5,4,GCBrewingCo,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1105366113,3,2.5,3.5,paterlodie,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1114633958,4,2,2,ski271,Light Lager,2,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1112840376,5,3,3,samsneed,Light Lager,4,4,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1112029328,2.5,1.5,2.5,Vancer,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1111539398,5,2,3,sinkr,Light Lager,3,4,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1111387301,2,1.5,2.5,Luigi,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1110757697,2,2,2.5,MoeSizlak,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1109818179,3.5,3.5,3.5,yeagerbm,Light Lager,3.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1109306037,4,3,3,BigRedN,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1106680634,2,1.5,2,euskera,Light Lager,1.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1106451521,4,3,3,TheDeuce,Light Lager,4,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1307392386,1.5,1.5,3,nrbw23,Light Lager,2.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1105153823,2,2,2,HardTarget,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1105078105,3.5,2.5,3,crookedhalo,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1104690660,2.5,1.5,1.5,NEhophead,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1103340059,2.5,2,3,sulldaddy,Light Lager,1.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1103236416,3,2.5,3,BeerBob,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1102006973,2,1,1,cncbofh,Light Lager,1.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1100130969,2.5,1.5,1,MuddyFeet,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1098710642,1,1,2.5,walleye,Light Lager,1,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1097677488,2,1.5,3,meathookjones,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1096124047,2,1.5,2,DrJay,Light Lager,2.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1094942937,2.5,2,2,moulefrite,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1094868968,3,2,3,CCUBA,Light Lager,3.5,3.5,Amstel Light,3.5,436
+20658,7 Seas Brewery and Taproom,1267505224,4,4,4,barleywinefiend,American Double / Imperial IPA,4,4,Ballz Deep Double IPA,8.4,53679
+163,Amstel Brouwerij B. V.,1090636119,3.5,1.5,2,mynie,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1089601926,3,2.5,3,connecticutpoet,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1088651370,2,1.5,1.5,waughbrew,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1086135012,2.5,3,3,Boilermaker88,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1085959217,1.5,1.5,1.5,beertaster13,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1083111500,1.5,2.5,2.5,cptnjck101,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1082691173,2.5,2.5,3,RoyalT,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1082469551,2,2,3,Trentonator,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1081195455,2.5,2,2.5,chaduvel,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1080081715,1.5,1.5,2,mschofield,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1079834852,2.5,2,2,jsolack,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1079581379,3,2.5,3,Zorro,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1307151541,2.5,3.5,4,rlshep,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1078495580,3,2,3,Foxman,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1078321287,2.5,2.5,2.5,JoEBoBpr,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1077318434,2.5,2.5,2.5,oggg,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1073614704,2.5,1.5,2,ralphw56,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1072598570,3,2,2.5,theozag,Light Lager,2.5,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1312155294,2.5,1,2.5,DrewCapzz,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1311842659,2.5,1.5,3,MoreThanWine,Light Lager,2,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1311279840,2.5,3,3.5,biboergosum,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1309836423,2.5,3,3.5,ferrari29,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1309581645,2,2,3,SWMeyer4141,Light Lager,1.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1306770460,2,2,2.5,mdfb79,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1305673770,2.5,1.5,2,kingcrowing,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1305342826,2,3.5,4,ZenAgnostic,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1072577041,3.5,3.5,3.5,TastyTaste,Light Lager,3.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1071989044,3.5,2.5,2.5,dual1246,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1071856037,3,2.5,2.5,francisweizen,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1071851170,3,2,2,Rootdog316,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1071514229,2,3,4,counselor,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1070566469,1.5,1,1.5,DrunkMcDermott,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1069699200,3,1.5,2,Tballz420,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1069264277,2.5,1.5,2.5,ADR,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1069086823,4,2.5,2.5,ThistleKing,Light Lager,2.5,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1066996445,2,1.5,2,ImperialScott,Light Lager,3,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1066977195,2,2,3,flaminghomer,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1066692035,3.5,2.5,2.5,HCYJ,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1066181031,3,2.5,2.5,kunzbrew,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1066071970,4,2,2,SepticDeath,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1063816506,3,2,2,guinness33,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1061842628,2,2,3,putnam,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1058734253,3,1.5,2.5,granger10,Light Lager,2.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1058264446,4,3.5,4,bierman2000,Light Lager,4,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1058207120,3,3,2.5,Reidrover,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1057934949,1.5,1,2,TheDM,Light Lager,1.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1057629139,4,1.5,3,Mustard,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1057065245,1.5,1,1.5,hotstuff,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1056912972,2,2,2,FranklinPCombs,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1056672678,3,2,2.5,Beastdog75,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1055665111,2.5,1.5,2.5,beerguy101,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1055407576,3,3,3,clvand0,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1054475046,3,1.5,2.5,au1sec,Light Lager,2,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1053650463,2,2.5,2,86MonteSS,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1053631999,3.5,2,2.5,DESTRO,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1053274348,3,2,2,OldFrothingSlosh,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1051180182,3,2,3,brewdlyhooked13,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1016982390,2.5,3,3,WilliamPhilaPa,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1050958539,3.5,2.5,3,Andreji,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1050611620,2.5,2.5,2,allboutbierge,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1049472087,3,2.5,3,Redrover,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1049159744,1,1,1,rastaman,Light Lager,1,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1048741349,2.5,2.5,3,Shiloh,Light Lager,3.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1048178512,3,3,3,francisweizen,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1047680171,1.5,2.5,2.5,budgood1,Light Lager,1.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1047669393,2,2,2,AtLagerHeads,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1046700222,1.5,2,2.5,bditty187,Light Lager,2.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1046439256,3,1.5,2,kindestcut,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1046187387,2,3,3,thefratguy,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1045921008,2.5,2,1.5,Bruiser81,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1043868106,2.5,1.5,3,Pegasus,Light Lager,2.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1043586622,3,2.5,3,Gusler,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1042143207,3.5,2.5,3,Morris729,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1041609664,3,2.5,2.5,Zraly,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1039810604,3,3,3,elmocoso,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1037595567,2,1.5,2,ipogios,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1036358510,2.5,3,2.5,ElGuapo,Light Lager,3,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1033670253,3.5,3,3,NeroFiddled,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1033547618,1.5,1.5,1.5,Dogbrick,Light Lager,1,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1031897977,2,1.5,2.5,yen157,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1027191446,3,1,2,BeerAngel,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1025445614,4,3.5,3,EagleTalon,Light Lager,2,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1025324849,3,2.5,2.5,goindownsouth,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1016440876,3,2.5,3,proc,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1023302870,3.5,3.5,3.5,Mar-77,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1023270631,4,4,3.5,fdoosey,Light Lager,4,4,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1022784539,2.5,1.5,3,StevieW,Light Lager,2.5,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1022615698,2.5,4,3,garymuchow,Light Lager,2.5,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1022566221,2.5,2.5,3,psugrad98,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1022170820,3,2,2,Wildman,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1022112001,2.5,1.5,1.5,Monk11,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1021386943,2,1,3,BobLuvBeer,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1020954613,1,1.5,2,aracauna,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1020844823,3,3,2.5,frank4sail,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1020197277,2.5,1,2,Jason,Light Lager,3.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1018805847,2.5,2.5,2.5,IrishRedRock,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1018645748,2.5,2,2.5,jackndan,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1303676056,2,2.5,1.5,shand,Light Lager,3,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1303005667,1.5,1.5,2,ManuelHerrera,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1302404503,2,2,2,Knapp85,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1301868987,1.5,1.5,3,BeerFMAndy,Light Lager,2,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1301658165,1.5,2,2.5,IronCitySteve,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1301027099,1.5,1,2,TheKingofWichita,Light Lager,2,1,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1300803071,2,2,2,sitarist,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1300214370,3.5,2.5,3,BeerCon5,Light Lager,3,3.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1300117887,3.5,3,2,krazyboi,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1299955122,2,2,3,ianjsullivan,Light Lager,3,2.5,Amstel Light,3.5,436
+15636,Calapooia Brewing Company,1250036968,2,3,2,RedDiamond,American Pale Lager,1.5,2.5,Pacific Pilsner,4.5,51814
+163,Amstel Brouwerij B. V.,1299724906,2,2,2.5,mdunman,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1299698275,2.5,2,2,PhillyStyle,Light Lager,1.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1297908147,2.5,1.5,1.5,junjun,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1297128561,3.5,2,3,JMad,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1297059860,2.5,1.5,3,Spider889,Light Lager,3,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1296868422,2,2,2,Wasatch,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1296245089,1.5,1.5,2.5,deadliest,Light Lager,1.5,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1295661690,1.5,1,2,secondtooth,Light Lager,2,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1295228575,4,2.5,2.5,Beerbluesbiology,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1295214309,2,1.5,2.5,rowingbrewer,Light Lager,2,1.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1295011913,1.5,2,3,OWSLEY069,Light Lager,2.5,2,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1293910312,3,2,3,alleykatking,Light Lager,3,3,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1136418037,4,3,2.5,gorilla19,Euro Pale Lager,3.5,3.5,Amstel Bright,5,3386
+163,Amstel Brouwerij B. V.,1293899379,3,2,2,BeerLover99,Light Lager,2.5,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1292909131,2,2,2,FosterJM,Light Lager,2,2.5,Amstel Light,3.5,436
+163,Amstel Brouwerij B. V.,1292715957,2.5,2.5,2,theboozecruise,Light Lager,2,2,Amstel Light,3.5,436
