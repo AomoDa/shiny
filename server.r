@@ -1,4 +1,4 @@
-data = read.csv("data//mydf.csv")
+data = read.csv("https://raw.githubusercontent.com/AomoDa/shiny/master/data/mysdf.csv")
 shinyServer(function(input, output) {
   
   output$tb <-  renderTable({   
