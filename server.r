@@ -1,5 +1,4 @@
 data = read.csv("data/view(1).csv")
-source("helper.txt")
 shinyServer(function(input, output) {
   
   output$tb <-  renderTable({   
