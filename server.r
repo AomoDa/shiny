@@ -1,4 +1,4 @@
-data = read.csv("data/view(1).csv")
+data = read.csv("data/mydf.csv")
 shinyServer(function(input, output) {
   
   output$tb <-  renderTable({   
