@@ -2,7 +2,7 @@ library(shiny)
 library(shinythemes) 
 
 
-shinyUI(navbarPage( theme = shinytheme("flatly"),
+shinyUI(navbarPage( theme = shinytheme("cosmo"),
                     
                     "Final Project",
                     
@@ -12,7 +12,7 @@ shinyUI(navbarPage( theme = shinytheme("flatly"),
                                  selectInput(inputId = "year",
                                              label = "Year",
                                              choices =2006:2015,
-                                             selected = 'ALL'),
+                                             selected = 2015),
                                  submitButton("Run")
                                ),
                                mainPanel( 
