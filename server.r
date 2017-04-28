@@ -80,7 +80,7 @@ shinyServer(function(input, output) {
       scale_x_discrete(breaks=NULL)+
       scale_y_discrete(breaks=NULL)+
       geom_text(aes(x=log,y=lat,label=STATE,size=DEATH),col=gray(0.3),
-                check_overlap=TRUE,show.legend = FALSE)
+                check_overlap=TRUE,show.legend = FALSE,na.rm=T)
     
   })
   
@@ -95,7 +95,7 @@ shinyServer(function(input, output) {
       scale_x_discrete(breaks=NULL)+
       scale_y_discrete(breaks=NULL)+
       geom_text(aes(x=log,y=lat,label=STATE,size=CNT),col=gray(0.2),
-                check_overlap=TRUE,show.legend = FALSE)
+                check_overlap=TRUE,show.legend = FALSE,na.rm=T)
   })
   
   output$map3 <-  renderPlot({  
@@ -109,7 +109,7 @@ shinyServer(function(input, output) {
       scale_x_discrete(breaks=NULL)+
       scale_y_discrete(breaks=NULL)+
       geom_text(aes(x=log,y=lat,label=STATE,size=PROP_LOSS),col=gray(0.3),
-                check_overlap=TRUE,show.legend = FALSE)
+                check_overlap=TRUE,show.legend = FALSE,na.rm=T)
   })
   output$map4 <-  renderPlot({  
     ggplot(data_fire_sum, aes(map_id = STATE_NAME)) +
@@ -122,7 +122,7 @@ shinyServer(function(input, output) {
       scale_x_discrete(breaks=NULL)+
       scale_y_discrete(breaks=NULL)+
       geom_text(aes(x=log,y=lat,label=STATE,size=CONT_LOSS),col=gray(0.3),
-                check_overlap=TRUE,show.legend = FALSE)
+                check_overlap=TRUE,show.legend = FALSE,na.rm=T)
     
   })
   
