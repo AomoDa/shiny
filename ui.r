@@ -1,62 +1,54 @@
 library(shiny)
 library(shinythemes) 
+
+
 shinyUI(navbarPage( theme = shinytheme("flatly"),
                     
-                    "Recommend",
+                    "Final Project",
                     
-                    tabPanel("User-Item",  
+                    tabPanel("My Test",  
                              sidebarLayout( 
                                sidebarPanel( 
-                               
-       textInput("tt", label = h3("Items"), 
-                value = ""),  
-                                 submitButton(h3("Query"))
-                               ),                                   
-                               
+                                 selectInput(inputId = "year",
+                                             label = "Year",
+                                             choices =2006:2015,
+                                             selected = 'ALL'),
+                                 submitButton("Run")
+                               ),
                                mainPanel( 
-                                 tabsetPanel( 
-                                   tabPanel("Recommend", tableOutput("desc")),
-                                   tabPanel("Rawdata", tableOutput("tb"))
-                               )
+                                 plotOutput("map1"),
+                                 plotOutput("map2"),
+                                 plotOutput("map3"),
+                                 plotOutput("map4")
+                                 
                              )               
                              
                              
                     )),
        
-       tabPanel("xxx",  
+       tabPanel("Time series analysis",  
                 sidebarLayout( 
                   sidebarPanel( 
-                    sidebarPanel("sidebar panel",
-                  sliderInput("a", label = '',
-                        min = 0, max = 100, value = 50,width='1000px'),
-                  selectInput(inputId = "n_breaks",
-                              label = "Number of bins in histogram (approximate):",
-                              choices = c(10, 20, 35, 50),
-                              selected = 20),
-                  submitButton("Query")              
-                                  ),
-                    mainPanel("main panel")
+                  selectInput(inputId = "state",
+                              label = "Prediction State",
+                              choices =  c('ALL',state.abb),
+                              selected = 'ALL'),
+                  selectInput(inputId = "pred_value",
+                              label = "Prediction Content",
+                              choices =  c('DEATH','CNT','PROP_LOSS','CONT_LOSS'),
+                              selected = 'DEATH'),
+                  selectInput(inputId = "pred_h",
+                              label = "Prediction Months",
+                              choices = 1:12,
+                              selected = 6),
+                  submitButton("Run")
                   ),                                   
-                  
                   mainPanel( 
-                    
-                    plotOutput("xxx")
-
+                    plotOutput("xxx"),
+                    tabsetPanel( 
+                    tabPanel("Predict Data With 95% Confidence Interval", 
+                             tableOutput("pred_table")))
                   )               
-                ) ,
-                sidebarLayout( 
-                  sidebarPanel( 
-                    sidebarPanel( "sidebar panel"),
-                    mainPanel("main panel")
-                  ),                                   
-                  
-                  mainPanel( 
-                    
-
-                    
-                  )               
-                ))            
-                    
-                    
-                    
-))
+                )
+                
+                )))
