@@ -6,7 +6,7 @@ data_ts_sum <- read.csv('./data//data_ts_sum.csv',
                         stringsAsFactors = F)
 data_fire_sum <- read.csv('./data//data_fire_sum.csv',
                           stringsAsFactors = F)
-
+states_map <- map_data("state")
 shinyServer(function(input, output) {
   
   output$tb <-  renderTable({   
