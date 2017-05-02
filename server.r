@@ -151,7 +151,7 @@ shinyServer(function(input, output) {
            title=bar_title)+
       theme(axis.text.x=element_text(face="bold",
                                      angle=0,
-                                     color="black")+scale_colour_brewer(palette = "Set1")
+                                     color="black")
       )
     
   }) 
