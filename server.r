@@ -151,7 +151,7 @@ shinyServer(function(input, output) {
            title=bar_title)+
       theme(axis.text.x=element_text(face="bold",
                                      angle=0,
-                                     color="black")
+                                     color="black")+scale_colour_brewer(palette = "Set1")
       )
     
   }) 
@@ -202,7 +202,7 @@ shinyServer(function(input, output) {
       geom_line()+theme(panel.background = element_blank())+
       theme_bw()+
       labs(x='',y='',title='Time Series')+ 
-      theme(legend.position = "bottom")+scale_colour_brewer(palette = "Set1")
+      theme(legend.position = "bottom")
     
   })
   
