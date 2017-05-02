@@ -202,7 +202,7 @@ shinyServer(function(input, output) {
       geom_line()+theme(panel.background = element_blank())+
       theme_bw()+
       labs(x='',y='',title='Time Series')+ 
-      theme(legend.position = "bottom")
+      theme(legend.position = "bottom")+scale_colour_brewer(palette = "Set1")
     
   })
   
