@@ -3,15 +3,15 @@ library(maps)
 library(plyr)
 library(forecast)
 library(reshape)
-data_ts_sum <- read.csv('C://Users//mali//Documents//data_ts_sum.csv',
+data_ts_sum <- read.csv('./data/data_ts_sum.csv',
                         stringsAsFactors = F)
-data_fire_sum <- read.csv('C://Users//mali//Documents//data_fire_sum.csv',
+data_fire_sum <- read.csv('./data/data_fire_sum.csv',
                           stringsAsFactors = F)
 states_map <- map_data("state")
 
-data_fire_type <- read.csv('C://Users//mali//Documents//data_fire_type.csv',
+data_fire_type <- read.csv('./data/data_fire_type.csv',
                            stringsAsFactors = F)
-data_death_detial <- read.csv('C://Users//mali//Documents//data_death_detial.csv',
+data_death_detial <- read.csv('./data/data_death_detial.csv',
                               stringsAsFactors = F)
 
 data_death_detial$GENDER <- as.factor(data_death_detial$GENDER)
