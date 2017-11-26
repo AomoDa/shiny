@@ -5,7 +5,7 @@ library(shinythemes)
 
 shinyUI(navbarPage( theme = shinytheme("cosmo"),
                     
-                    "Final Project",
+                    "Doudou Zhang",
                     
                     tabPanel("Residential Fires",  
                              sidebarLayout( 
